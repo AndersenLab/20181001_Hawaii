@@ -1,0 +1,1397 @@
+﻿s_label,strip_id,well_id,pcr1_plate_id,lysis_notes,pcr1_plate_well,gel1_band,band_notes,seq1_plate_id,seq1_well_id,seq1_species_id_oECA305,seq1_notes_oECA305,seq1_species_id_oECA306,seq1_notes_oECA306,seq1_species_id,pcr2_plate_id,pcr2_plate_well,seq2_plate_id,seq2_plate_well,seq2_species_id,seq2_notes,confirmed_species_id,ECA_name
+S-07701,1,1,1,not picked,A01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07702,1,2,1,,A02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07703,1,3,1,,A03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07705,1,4,1,,A04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07707,1,5,1,,A05,1,,1,A02,C. kamaaina,mismatched,C. kamaaina,0,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07709,1,6,1,,A06,1,,1,A03,no match,0,C. kamaaina,mismatched,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07711,1,7,1,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07713,1,8,1,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07718,1,9,1,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07727,1,10,1,,A10,1,,1,A04,C. kamaaina,mismatched,C. kamaaina,mismatched,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07742,1,11,1,,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,1,12,1,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07745,2,1,1,,B01,1,,1,A05,no match,0,Mesorhabditis belari,0,Mesorhabditis belari,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07757,2,2,1,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07758,2,3,1,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07769,2,4,1,,B04,1,,1,A06,C. kamaaina,mismatched,C. kamaaina,mismatched,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07770,2,5,1,,B05,1,,1,A07,C. kamaaina,mismatched,C. kamaaina,mismatched,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07771,2,6,1,,B06,1,,1,A08,C. kamaaina,mismatched,C. kamaaina,mismatched,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07772,2,7,1,,B07,1,,1,A09,C. kamaaina,mismatched,C. kamaaina,mismatched,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07773,2,8,1,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07777,2,9,1,,B09,1,,1,A10,C. kamaaina,mismatched,C. kamaaina,mismatched,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07779,2,10,1,,B10,1,,1,A11,C. kamaaina,mismatched,C. kamaaina,mismatched,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07783,2,11,1,,B11,1,,1,A12,C. briggsae,mismatched,C. briggsae,mismatched,C. briggsae,201,A01,201,A03,C. briggsae,0,C. briggsae,ECA1143
+positive control,2,12,1,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07786,3,1,1,,C01,1,,1,B02,C. briggsae,0,0,0,C. briggsae,201,A02,201,A04,C. briggsae,0,C. briggsae,ECA1144
+S-07787,3,2,1,,C02,1,,1,B03,C. briggsae,0,0,0,C. briggsae,201,A03,201,A05,C. briggsae,0,C. briggsae,ECA1145
+S-07788,3,3,1,,C03,1,,1,B04,C. briggsae,0,0,0,C. briggsae,201,A04,201,A06,C. briggsae,0,C. briggsae,ECA1146
+S-07790,3,4,1,,C04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07793,3,5,1,,C05,1,,1,B05,no match,0,Panagrolaimus sp.,other similar scores,Panagrolaimus sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07794,3,6,1,,C06,1,,1,B06,Picrorhiza kurrooa,low score,C. japonica,low query coverage,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07795,3,7,1,,C07,1,,1,B07,Gongronella sp.,low score,Panagrolaimus sp.,other similar scores,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07796,3,8,1,,C08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07797,3,9,1,,C09,1,,1,B08,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07798,3,10,1,,C10,1,,1,B09,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07801,3,11,1,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,3,12,1,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07802,4,1,1,,D01,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07803,4,2,1,,D02,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07804,4,3,1,,D03,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07805,4,4,1,,D04,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07806,4,5,1,,D05,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07807,4,6,1,,D06,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07808,4,7,1,,D07,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07809,4,8,1,,D08,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07810,4,9,1,,D09,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07811,4,10,1,,D10,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07813,4,11,1,,D11,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,4,12,1,,D12,not loaded,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07814,5,1,1,,E01,1,,1,B10,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,A05,201,A07,C. tropicalis,0,C. tropicalis,ECA1299
+S-07817,5,2,1,not picked,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07821,5,3,1,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07824,5,4,1,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07825,5,5,1,,E05,1,,1,B11,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07826,5,6,1,,E06,1,,1,B12,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07828,5,7,1,,E07,1,,1,C02,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07829,5,8,1,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07833,5,9,1,,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07835,5,10,1,,E10,1,,1,C03,no match,0,no match,0,no match,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07836,5,11,1,,E11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,5,12,1,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07837,6,1,1,,F01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07838,6,2,1,not picked,F02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07839,6,3,1,,F03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07841,6,4,1,,F04,1,,1,C04,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,A07,201,A08,C. tropicalis,0,C. tropicalis,ECA1300
+S-07842,6,5,1,,F05,1,,1,C05,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,A08,201,A09,C. tropicalis,0,C. tropicalis,ECA1301
+S-07844,6,6,1,,F06,1,,1,C06,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,A09,201,A10,C. tropicalis,0,C. tropicalis,ECA1302
+S-07845,6,7,1,,F07,1,,1,C07,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,A10,201,A11,C. tropicalis,0,C. tropicalis,ECA1303
+S-07846,6,8,1,,F08,1,,1,C08,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,A11,201,A12,C. tropicalis,0,C. tropicalis,ECA1304
+S-07852,6,9,1,,F09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07857,6,10,1,,F10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07858,6,11,1,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,6,12,1,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07859,7,1,1,,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07860,7,2,1,,G02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07861,7,3,1,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07862,7,4,1,,G04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07868,7,5,1,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07871,7,6,1,,G06,1,,1,C09,no match,0,no match,0,no match,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07878,7,7,1,,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07879,7,8,1,,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07880,7,9,1,,G09,1,,1,C10,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07881,7,10,1,,G10,1,,1,C11,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,B02,201,B01,C. tropicalis,0,C. tropicalis,ECA1305
+S-07893,7,11,1,,G11,1,,1,C12,C. kamaaina,mismatch,C. kamaaina,mismatch,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,7,12,1,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07897,8,1,1,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07898,8,2,1,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07901,8,3,1,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07905,8,4,1,,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07906,8,5,1,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07907,8,6,1,,H06,1,,1,D02,C. kamaaina,mismatch,C. kamaaina,mismatch,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07908,8,7,1,,H07,1,,1,D03,C. kamaaina,mismatch,C. kamaaina,mismatch,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07910,8,8,1,,H08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07913,8,9,1,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07914,8,10,1,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07916,8,11,1,,H11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,8,12,1,,H12,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07917,9,1,2,,A01,1,,1,D04,C. sinica,mismatch,C. kamaaina,mismatch,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07918,9,2,2,,A02,1,,1,D05,C. briggsae,0,0,0,C. briggsae,201,B03,201,B02,C. briggsae,0,C. briggsae,ECA1147
+S-07920,9,3,2,,A03,1,,1,D06,C. kamaaina,mismatch,C. kamaaina,mismatch,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07930,9,4,2,,A04,1,,1,D07,C. briggsae,0,0,0,C. briggsae,201,B04,201,B03,C. briggsae,0,C. briggsae,ECA1148
+S-07931,9,5,2,,A05,1,,1,D08,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,B05,201,B04,C. briggsae,0,C. briggsae,ECA1149
+S-07932,9,6,2,,A06,1,,1,D09,Rhabditida sp.,low score,C. briggsae,0,C. briggsae,201,B06,201,B05,C. briggsae,0,C. briggsae,ECA1150
+S-07933,9,7,2,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07935,9,8,2,,A08,1,,1,D10,no match,0,C. kamaaina,mismatched,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07936,9,9,2,,A09,1,,1,D11,C. briggsae,0,0,0,C. briggsae,201,B07,201,B06,C. briggsae,0,C. briggsae,ECA1151
+S-07937,9,10,2,,A10,1,,1,D12,C. kamaaina,mismatch,C. kamaaina,mismatch,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07938,9,11,2,,A11,1,,1,E01,C. kamaaina,mismatch,C. kamaaina,mismatch,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,9,12,2,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07939,10,1,2,,B01,1,,1,E02,C. elegans,0,0,0,C. elegans,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07942,10,2,2,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07943,10,3,2,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07944,10,4,2,,B04,1,,1,E03,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07947,10,5,2,,B05,1,,1,E04,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07948,10,6,2,,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07953,10,7,2,,B07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07954,10,8,2,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07955,10,9,2,,B09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07958,10,10,2,,B10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07959,10,11,2,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,10,12,2,,B12,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07961,11,1,2,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07962,11,2,2,,C02,1,,1,E05,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07963,11,3,2,,C03,1,,1,E06,Oscheius sp.,0,0,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07964,11,4,2,,C04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07973,11,5,2,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07974,11,6,2,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07984,11,7,2,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07988,11,8,2,,C08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07989,11,9,2,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07990,11,10,2,,C10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07992,11,11,2,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,11,12,2,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07997,12,1,2,,D01,1,,1,E07,no match,0,C. kamaaina,mismatched,C. kamaaina,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-07998,12,2,2,,D02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08000,12,3,2,,D03,1,,1,E08,C. briggsae,0,0,0,C. briggsae,201,B09,201,B07,C. briggsae,0,C. briggsae,ECA1152
+S-08002,12,4,2,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08005,12,5,2,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08014,12,6,2,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08015,12,7,2,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08016,12,8,2,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08017,12,9,2,,D09,1,,1,E09,C. briggsae,0,0,0,C. briggsae,201,B10,201,B08,C. briggsae,0,C. briggsae,ECA1153
+S-08018,12,10,2,,D10,1,,1,E10,C. briggsae,0,0,0,C. briggsae,201,B11,201,B09,C. briggsae,0,C. briggsae,ECA1154
+S-08019,12,11,2,,D11,1,,1,E11,C. briggsae,0,0,0,C. briggsae,201,C01,201,B10,C. briggsae,0,C. briggsae,ECA1155
+positive control,12,12,2,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08020,13,1,2,,E01,1,,1,E12,C. briggsae,0,0,0,C. briggsae,201,C02,201,B11,C. briggsae,0,C. briggsae,ECA1156
+S-08025,13,2,2,,E02,1,,1,F01,C. briggsae,0,0,0,C. briggsae,201,C03,201,B12,C. briggsae,0,C. briggsae,ECA1157
+S-08026,13,3,2,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08028,13,4,2,,E04,1,,1,F02,C. briggsae,0,0,0,C. briggsae,201,C04,201,C01,C. briggsae,0,C. briggsae,ECA1158
+S-08029,13,5,2,,E05,1,,1,F03,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,C05,201,C02,C. tropicalis,0,C. tropicalis,ECA1306
+S-08030,13,6,2,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08031,13,7,2,,E07,1,,1,F04,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,C06,201,C03,C. tropicalis,0,C. tropicalis,ECA1307
+S-08033,13,8,2,,E08,1,,1,F05,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,C07,201,C04,C. tropicalis,0,C. tropicalis,ECA1308
+S-08034,13,9,2,,E09,1,,1,F06,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,C08,201,C05,C. tropicalis,0,C. tropicalis,ECA1309
+S-08035,13,10,2,,E10,1,,1,F07,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,C09,201,C06,C. briggsae,0,C. briggsae,ECA1159
+S-08036,13,11,2,,E11,1,,1,F08,C. tropicalis,mismatch,C. tropicalis,mismatch,C. tropicalis,201,C10,201,C07,C. tropicalis,0,C. tropicalis,ECA1310
+positive control,13,12,2,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08037,14,1,2,,F01,1,,1,F09,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,C11,201,C08,C. briggsae,0,C. briggsae,ECA1160
+S-08038,14,2,2,,F02,1,,1,F10,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,D01,201,C09,C. briggsae,0,C. briggsae,ECA1161
+S-08039,14,3,2,,F03,1,,1,F11,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,D02,201,C10,C. briggsae,0,C. briggsae,ECA1162
+S-08041,14,4,2,,F04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08053,14,5,2,,F05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08054,14,6,2,,F06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08055,14,7,2,,F07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08056,14,8,2,,F08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08057,14,9,2,,F09,1,,1,F12,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,D03,201,C11,C. briggsae,0,C. briggsae,ECA1163
+S-08058,14,10,2,,F10,1,,1,G01,C. briggsae,0,0,0,C. briggsae,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08059,14,11,2,,F11,1,,1,G02,C. briggsae,0,0,0,C. briggsae,201,D05,201,C12,C. briggsae,0,C. briggsae,ECA1164
+positive control,14,12,2,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08060,15,1,2,,G01,1,,1,G03,C. briggsae,0,0,0,C. briggsae,201,D06,201,D01,C. briggsae,0,C. briggsae,ECA1165
+S-08061,15,2,2,,G02,1,,1,G04,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08065,15,3,2,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08069,15,4,2,,G04,1,,1,G05,C. elegans,0,0,0,C. elegans,201,D07,201,D02,C. elegans,0,C. elegans,ECA1184
+S-08071,15,5,2,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08072,15,6,2,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08073,15,7,2,,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08074,15,8,2,,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08075,15,9,2,,G09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08076,15,10,2,,G10,1,,1,G06,C. elegans,0,0,0,C. elegans,201,D08,201,D03,C. elegans,0,C. elegans,ECA1185
+S-08077,15,11,2,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,15,12,2,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08078,16,1,2,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08079,16,2,2,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08080,16,3,2,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08081,16,4,2,,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08082,16,5,2,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08083,16,6,2,,H06,1,,1,G07,C. elegans,0,0,0,C. elegans,201,D09,201,D04,C. elegans,0,C. elegans,ECA1186
+S-08084,16,7,2,,H07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08085,16,8,2,,H08,1,,1,G08,C. briggsae,0,0,0,C. briggsae,201,D10,201,D05,C. briggsae,0,C. briggsae,ECA1166
+S-08086,16,9,2,,H09,1,,1,G09,C. briggsae,0,0,0,C. briggsae,201,D11,201,D06,C. briggsae,0,C. briggsae,ECA1167
+S-08087,16,10,2,,H10,1,,1,G10,C. briggsae,0,0,0,C. briggsae,201,E01,201,D07,C. briggsae,0,C. briggsae,ECA1168
+S-08088,16,11,2,,H11,1,,1,G11,C. briggsae,0,0,0,C. briggsae,201,E02,201,D08,C. briggsae,0,C. briggsae,ECA1169
+positive control,16,12,2,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08089,17,1,3,,A01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08091,17,2,3,,A02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08092,17,3,3,,A03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08093,17,4,3,,A04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08094,17,5,3,,A05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08095,17,6,3,,A06,1,,1,G12,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08096,17,7,3,,A07,1,,1,H01,C. briggsae,low score,C. briggsae,0,C. briggsae,201,E03,201,D09,C. briggsae,0,C. briggsae,ECA1170
+S-08097,17,8,3,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08098,17,9,3,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08099,17,10,3,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08101,17,11,3,,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,17,12,3,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08103,18,1,3,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08105,18,2,3,,B02,1,,1,H02,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08106,18,3,3,,B03,1,,1,H03,Oscheius myriophila,low score,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08107,18,4,3,,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08108,18,5,3,,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08109,18,6,3,,B06,1,,1,H04,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08110,18,7,3,,B07,1,,1,H05,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08111,18,8,3,,B08,1,,1,H06,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08112,18,9,3,,B09,1,,1,H07,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08116,18,10,3,,B10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08120,18,11,3,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,18,12,3,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08121,19,1,3,,C01,1,,1,H08,C. elegans,0,0,0,C. elegans,201,E04,201,D10,C. elegans,0,C. elegans,ECA1187
+S-08122,19,2,3,,C02,1,,1,H09,C. elegans,0,0,0,C. elegans,201,E05,201,D11,C. elegans,0,C. elegans,ECA1188
+S-08123,19,3,3,,C03,1,,1,H10,C. elegans,0,0,0,C. elegans,201,E06,201,D12,C. elegans,0,C. elegans,ECA1189
+S-08124,19,4,3,,C04,1,,1,H11,C. elegans,0,0,0,C. elegans,201,E07,201,E01,C. elegans,0,C. elegans,ECA1190
+S-08125,19,5,3,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08126,19,6,3,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08128,19,7,3,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08129,19,8,3,,C08,1,,1,H12,C. elegans,0,0,0,C. elegans,201,E08,201,E02,C. elegans,0,C. elegans,ECA1191
+S-08130,19,9,3,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08131,19,10,3,,C10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08132,19,11,3,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,19,12,3,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08135,20,1,3,,D01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08140,20,2,3,,D02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08141,20,3,3,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08142,20,4,3,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08143,20,5,3,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08144,20,6,3,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08146,20,7,3,,D07,1,,2,A01,C. elegans,381 GT mismatch,C. elegans,mismatch,C. elegans,201,E09,201,E03,C. elegans,0,C. elegans,ECA1192
+S-08147,20,8,3,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08148,20,9,3,,D09,1,,2,A02,no match,0,C. elegans,mismatch,C. elegans,201,E10,201,E04,C. elegans,0,C. elegans,ECA1193
+S-08151,20,10,3,,D10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08152,20,11,3,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,20,12,3,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08153,21,1,3,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08154,21,2,3,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08155,21,3,3,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08157,21,4,3,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08158,21,5,3,,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08159,21,6,3,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08160,21,7,3,,E07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08162,21,8,3,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08164,21,9,3,,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08165,21,10,3,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08167,21,11,3,,E11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,21,12,3,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08169,22,1,3,,F01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08170,22,2,3,,F02,1,,2,A04,C. elegans,387 GT mismatch,C. elegans,mismatch,C. elegans,201,E11,201,E05,C. elegans,0,C. elegans,ECA1194
+S-08173,22,3,3,,F03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08174,22,4,3,,F04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08175,22,5,3,,F05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08177,22,6,3,,F06,1,,2,A05,C. elegans,381 GT mismatch,C. elegans,mismatch,C. elegans,201,F01,201,E06,C. elegans,0,C. elegans,ECA1195
+S-08179,22,7,3,sterile,F07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08180,22,8,3,not picked,F08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08181,22,9,3,,F09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08182,22,10,3,,F10,1,,2,A06,no match,0,Acaulopage dichotoma,low score,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08183,22,11,3,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,22,12,3,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08184,23,1,3,,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08186,23,2,3,,G02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08187,23,3,3,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08188,23,4,3,,G04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08189,23,5,3,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08190,23,6,3,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08194,23,7,3,,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08195,23,8,3,,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08196,23,9,3,,G09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08197,23,10,3,,G10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08201,23,11,3,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,23,12,3,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08202,24,1,3,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08205,24,2,3,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08209,24,3,3,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08210,24,4,3,,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08211,24,5,3,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08212,24,6,3,,H06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08217,24,7,3,,H07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08218,24,8,3,,H08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08220,24,9,3,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08221,24,10,3,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08224,24,11,3,,H11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,24,12,3,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08225,25,1,4,,A01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08226,25,2,4,,A02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08229,25,3,4,,A03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08230,25,4,4,,A04,1,,2,A07,no match,0,Panagrolaimus sp.,similar scores,Panagrolaimus sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08231,25,5,4,,A05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08232,25,6,4,,A06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08234,25,7,4,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08236,25,8,4,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08237,25,9,4,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08238,25,10,4,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08239,25,11,4,,A11,1,,2,A08,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,25,12,4,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08240,26,1,4,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08241,26,2,4,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08242,26,3,4,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08243,26,4,4,,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08245,26,5,4,,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08246,26,6,4,,B06,1,,2,A09,Oscheius sp.,0,0,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08247,26,7,4,,B07,1,,2,A10,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08248,26,8,4,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08249,26,9,4,,B09,1,,2,A11,C. elegans,strain QX1211,C. elegans,mismatch,C. elegans,201,F02,201,E07,C. elegans,0,C. elegans,ECA1196
+S-08250,26,10,4,,B10,1,,2,A12,no match,0,Panagrolaimus sp.,similar scores,Panagrolaimus sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08251,26,11,4,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,26,12,4,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08252,27,1,4,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08253,27,2,4,,C02,1,,2,B01,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08254,27,3,4,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08255,27,4,4,,C04,1,,2,B02,C. elegans,380 GT mismatch,C. elegans,mismatch,C. elegans,201,F03,201,E08,C. elegans,0,C. elegans,ECA1197
+S-08256,27,5,4,,C05,1,,2,B04,C. elegans,strain QX1211,C. elegans,mismatch,C. elegans,201,F04,201,E09,C. elegans,0,C. elegans,ECA1198
+S-08257,27,6,4,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08259,27,7,4,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08261,27,8,4,,C08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08268,27,9,4,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08269,27,10,4,,C10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08270,27,11,4,no worms,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,27,12,4,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08271,28,1,4,,D01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08272,28,2,4,,D02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08273,28,3,4,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08274,28,4,4,no worms,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08280,28,5,4,,D05,1,,2,B05,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08281,28,6,4,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08282,28,7,4,,D07,1,,2,B06,no match,0,Panagrolaimus sp.,similar scores,Panagrolaimus sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08283,28,8,4,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08284,28,9,4,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08285,28,10,4,,D10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08286,28,11,4,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,28,12,4,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08287,29,1,4,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08288,29,2,4,,E02,1,,2,B07,C. elegans,mismatch,C. elegans,mismatch,C. elegans,201,F05,201,E10,C. elegans,0,C. elegans,ECA1199
+S-08289,29,3,4,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08290,29,4,4,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08291,29,5,4,,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08292,29,6,4,,E06,1,,2,B08,no match,0,Panagrolaimus,similar scores,Panagrolaimus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08293,29,7,4,,E07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08294,29,8,4,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08296,29,9,4,,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08297,29,10,4,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08298,29,11,4,,E11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,29,12,4,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08299,30,1,4,,F01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08300,30,2,4,,F02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08301,30,3,4,,F03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08306,30,4,4,,F04,1,,2,B09,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08312,30,5,4,,F05,1,,2,B10,Oscheius myriophilus,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08313,30,6,4,,F06,1,,2,B11,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08314,30,7,4,,F07,1,,2,B12,Oscheius myriophilus,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08316,30,8,4,,F08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08317,30,9,4,,F09,1,,2,C01,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08318,30,10,4,,F10,1,,2,C02,Oscheius myriophilus,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08321,30,11,4,,F11,1,,2,C04,no match,0,Mesorhabditis sp.,mismatch,Mesorhabditis sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,30,12,4,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08325,31,1,4,no worms,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08327,31,2,4,,G02,1,,2,C05,Oscheius sp. ,mismatch,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08328,31,3,4,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08332,31,4,4,,G04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08340,31,5,4,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08345,31,6,4,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08349,31,7,4,,G07,1,,2,C06,no match,0,Mesorhabditis belari,mismatch,Mesorhabditis belari,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08359,31,8,4,,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08360,31,9,4,,G09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08364,31,10,4,,G10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08365,31,11,4,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,31,12,4,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08367,32,1,4,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08368,32,2,4,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08370,32,3,4,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08371,32,4,4,no worms,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08375,32,5,4,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08376,32,6,4,,H06,1,,2,C07,C. elegans,mismatch,C. elegans,mismatch,C. elegans,201,F06,201,E11,C. elegans,0,C. elegans,ECA1200
+S-08385,32,7,4,,H07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08386,32,8,4,,H08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08387,32,9,4,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08389,32,10,4,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08390,32,11,4,,H11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,32,12,4,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08391,33,1,5,,H01,1,,2,C08,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08395,33,2,5,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08397,33,3,5,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08398,33,4,5,,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08402,33,5,5,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08408,33,6,5,,H06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08413,33,7,5,,H07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08416,33,8,5,,H08,1,,2,C09,no match,poor seq qual,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08417,33,9,5,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08418,33,10,5,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08421,33,11,5,,H11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,33,12,5,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08422,34,1,5,,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08423,34,2,5,,G02,1,,2,C10,no match,poor seq qual,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08424,34,3,5,,G03,1,,2,C11,no match,poor seq qual,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08425,34,4,5,,G04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08426,34,5,5,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08429,34,6,5,,G06,1,,2,C12,no match,poor seq qual,Oscheius sp.,mismatch,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08430,34,7,5,,G07,1,,2,D01,no match,poor seq qual,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08431,34,8,5,,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08432,34,9,5,,G09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08433,34,10,5,,G10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08434,34,11,5,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,34,12,5,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08439,35,1,5,,F01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08441,35,2,5,,F02,1,,2,D02,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,F07,201,E12,C. briggsae,0,C. briggsae,ECA1171
+S-08442,35,3,5,,F03,1,,2,D04,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,F08,201,F01,C. briggsae,0,C. briggsae,ECA1172
+S-08443,35,4,5,,F04,1,,2,D05,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,F09,201,F02,C. briggsae,0,C. briggsae,ECA1173
+S-08444,35,5,5,,F05,1,,2,D06,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,F10,201,F03,C. briggsae,0,C. briggsae,ECA1174
+S-08445,35,6,5,,F06,1,,2,D07,C. briggsae,mismatch,C. briggsae,0,C. briggsae,201,F11,201,F04,C. briggsae,0,C. briggsae,ECA1175
+S-08448,35,7,5,,F07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08451,35,8,5,,F08,1,,2,D08,C. briggsae,0,0,0,C. briggsae,201,G01,201,F05,C. briggsae,0,C. briggsae,ECA1176
+S-08452,35,9,5,,F09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08465,35,10,5,,F10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08466,35,11,5,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,35,12,5,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08467,36,1,5,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08468,36,2,5,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08469,36,3,5,,E03,1,,2,D09,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08470,36,4,5,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08471,36,5,5,,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08472,36,6,5,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08473,36,7,5,,E07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08478,36,8,5,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08479,36,9,5,,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08481,36,10,5,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08482,36,11,5,,E11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,36,12,5,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08483,37,1,5,,D01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08484,37,2,5,,D02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08485,37,3,5,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08486,37,4,5,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08487,37,5,5,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08488,37,6,5,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08489,37,7,5,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08490,37,8,5,,D08,1,,2,D10,C. elegans,mismatch,C. elegans,mismatch,C. elegans,201,G02,201,F06,C. elegans,0,C. elegans,ECA1201
+S-08491,37,9,5,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08492,37,10,5,,D10,1,,2,D11,C. elegans,QX1211 mismatch,C. elegans,mismatch,C. elegans,201,G03,201,F07,C. elegans,0,C. elegans,ECA1202
+S-08494,37,11,5,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,37,12,5,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08495,38,1,5,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08499,38,2,5,,C02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08500,38,3,5,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08501,38,4,5,,C04,1,,2,D12,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08502,38,5,5,,C05,1,,2,E01,no match,0,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08505,38,6,5,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08506,38,7,5,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08507,38,8,5,,C08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08509,38,9,5,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08510,38,10,5,,C10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08511,38,11,5,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,38,12,5,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08513,39,1,5,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08517,39,2,5,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08518,39,3,5,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08519,39,4,5,,B04,1,,2,E02,C. elegans,mismatch,C. elegans,0,C. elegans,201,G04,201,F08,C. elegans,0,C. elegans,ECA1203
+S-08520,39,5,5,,B05,1,,2,E03,C. elegans,mismatch,C. elegans,mismatch,C. elegans,201,G05,201,F09,C. elegans,0,C. elegans,ECA1204
+S-08521,39,6,5,,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08525,39,7,5,,B07,1,,2,E04,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08526,39,8,5,,B08,1,,2,E05,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08527,39,9,5,,B09,1,,2,E06,no match,seq failed,C. elegans,mismatch,C. elegans,201,G06,201,F10,C. elegans,0,C. elegans,ECA1205
+S-08528,39,10,5,,B10,1,,2,E07,C. elegans,mismatch,C. elegans,mismatch,C. elegans,201,G07,201,F11,C. elegans,0,C. elegans,ECA1206
+S-08533,39,11,5,,B11,1,,2,E08,Oscheius myrio,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,39,12,5,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08534,40,1,5,,A01,1,,2,E09,Oscheius myrio,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08535,40,2,5,,A02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08536,40,3,5,,A03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08537,40,4,5,,A04,1,,2,E10,C. elegans,mismatch,C. elegans,0,C. elegans,201,G08,201,F12,C. elegans,0,C. elegans,ECA1207
+S-08538,40,5,5,,A05,1,,2,E11,C. elegans,lots of mismatchs,C. elegans,0,C. elegans,201,G09,201,G01,C. elegans,0,C. elegans,ECA1208
+S-08539,40,6,5,,A06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08540,40,7,5,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08542,40,8,5,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08543,40,9,5,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08544,40,10,5,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08545,40,11,5,,A11,1,,2,E12,no match,0,no match,0,no match,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,40,12,5,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08547,41,1,6,,A01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08548,41,2,6,,A02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08549,41,3,6,,A03,1,,2,F01,C. elegans,mismatches,C. elegans,mismatches,C. elegans,201,G11,201,G02,C. elegans,0,C. elegans,ECA1209
+S-08550,41,4,6,,A04,1,,2,F02,C. elegans,mismatches,C. elegans,mismatches,C. elegans,201,H01,201,G03,C. elegans,0,C. elegans,ECA1210
+S-08551,41,5,6,,A05,1,,2,F03,no match,0,C. elegans,mismatch,C. elegans,201,H02,201,G04,C. elegans,0,C. elegans,ECA1211
+S-08552,41,6,6,,A06,1,,2,F04,Choriorhabditis cristata,mismatches,Caenorhabditis sp. 2,"lots of mismatchs, small overlap",ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08553,41,7,6,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08554,41,8,6,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08555,41,9,6,,A09,1,,2,F05,Choriorhabditis cristata,mismatches,Caenorhabditis sp. 2,"lots of mismatchs, small overlap",ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08556,41,10,6,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08558,41,11,6,,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,41,12,6,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08559,42,1,6,,B01,1,,2,F06,no match,0,C. tropicalis,mismatch,C. tropicalis,201,H03,201,G05,C. tropicalis,0,C. tropicalis,ECA1311
+S-08560,42,2,6,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08561,42,3,6,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08562,42,4,6,no worms,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08563,42,5,6,no worms,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08564,42,6,6,,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08565,42,7,6,,B07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08566,42,8,6,,B08,1,,2,F07,C. elegans,mismatch,C. elegans,0,C. elegans,201,H04,201,G06,C. elegans,0,C. elegans,ECA1212
+S-08567,42,9,6,,B09,1,,2,F08,C. elegans,mismatch,C. elegans,mismatch,C. elegans,201,H05,201,G07,C. elegans,0,C. elegans,ECA1213
+S-08568,42,10,6,,B10,1,,2,F09,C. elegans,mismatch,C. elegans,0,C. elegans,201,H06,201,G08,C. elegans,0,C. elegans,ECA1214
+S-08569,42,11,6,,B11,1,,2,F10,C. tropicalis,mismatches,C. tropicalis,mismatches,C. tropicalis,201,H07,201,G09,C. tropicalis,0,C. tropicalis,ECA1312
+positive control,42,12,6,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08570,43,1,6,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08573,43,2,6,,C02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08574,43,3,6,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08575,43,4,6,,C04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08576,43,5,6,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08578,43,6,6,,C06,1,,2,F11,C. tropicalis,pretty good match,C. tropicalis,mismatches,C. tropicalis,201,H08,201,G10,C. tropicalis,0,C. tropicalis,ECA1313
+S-08581,43,7,6,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08582,43,8,6,,C08,1,,2,F12,Oscheius myriophila,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08583,43,9,6,,C09,1,,2,G01,Oscheius myriophila ,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08584,43,10,6,,C10,1,,2,G02,Oscheius myriophila ,mismatch,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08585,43,11,6,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,43,12,6,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08586,44,1,6,no worms,D01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08587,44,2,6,,D02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08588,44,3,6,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08590,44,4,6,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08591,44,5,6,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08592,44,6,6,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08595,44,7,6,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08597,44,8,6,,D08,1,,2,G03,no match,0,no match,0,no match,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08598,44,9,6,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08599,44,10,6,,D10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08600,44,11,6,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,44,12,6,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08601,45,1,6,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08603,45,2,6,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08605,45,3,6,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08606,45,4,6,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08607,45,5,6,,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08608,45,6,6,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08610,45,7,6,,E07,1,,2,G04,Mackerrastrongylus,lots of same score matches,no match,0,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08611,45,8,6,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08612,45,9,6,,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08618,45,10,6,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08620,45,11,6,,E11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,45,12,6,,E12,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08627,46,1,6,,F01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08631,46,2,6,,F02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08633,46,3,6,,F03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08634,46,4,6,,F04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08635,46,5,6,,F05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08638,46,6,6,,F06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08639,46,7,6,no worms,F07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08640,46,8,6,,F08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08641,46,9,6,,F09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08642,46,10,6,,F10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08643,46,11,6,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,46,12,6,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08644,47,1,6,,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08645,47,2,6,,G02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08649,47,3,6,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08650,47,4,6,no worms,G04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08651,47,5,6,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08652,47,6,6,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08653,47,7,6,,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08654,47,8,6,,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08655,47,9,6,,G09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08656,47,10,6,no worms,G10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08658,47,11,6,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,47,12,6,,G12,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08659,48,1,6,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08660,48,2,6,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08662,48,3,6,,H03,1,,2,G05,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08664,48,4,6,,H04,1,,2,G06,no match,0,Oscheius myriophilus,mismatch,Oscheius myriophilus,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08666,48,5,6,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08667,48,6,6,,H06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08672,48,7,6,,H07,1,,2,G07,no match,0,C. elegans,mismatch,C. elegans,201,H10,201,G11,C. elegans,0,C. elegans,ECA1215
+S-08673,48,8,6,,H08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08674,48,9,6,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08675,48,10,6,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08676,48,11,6,,H11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,48,12,6,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08677,49,1,7,,A01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08679,49,2,7,,A02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08681,49,3,7,,A03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08693,49,4,7,,A04,1,,2,G08,C. elegans,0,0,0,C. elegans,201,H11,201,G12,C. elegans,0,C. elegans,ECA1216
+S-08694,49,5,7,,A05,1,,2,G09,C. elegans,0,0,0,C. elegans,202,A01,201,H01,C. elegans,0,C. elegans,ECA1217
+S-08695,49,6,7,,A06,1,,2,G10,C. elegans,mismatch,C. elegans,0,C. elegans,202,A02,201,H02,C. elegans,0,C. elegans,ECA1218
+S-08696,49,7,7,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08697,49,8,7,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08698,49,9,7,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08699,49,10,7,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08701,49,11,7,,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,49,12,7,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08702,50,1,7,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08706,50,2,7,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08708,50,3,7,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08709,50,4,7,,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08710,50,5,7,,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08713,50,6,7,,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08714,50,7,7,,B07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08715,50,8,7,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08717,50,9,7,,B09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08719,50,10,7,,B10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08721,50,11,7,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,50,12,7,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08724,51,1,7,,C01,1,,2,G11,C. elegans,mismatches,C. elegans,0,C. elegans,202,A03,201,H03,C. elegans,0,C. elegans,ECA1219
+S-08727,51,2,7,,C02,1,,2,G12,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08728,51,3,7,,C03,1,,2,H01,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08729,51,4,7,,C04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08733,51,5,7,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08734,51,6,7,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08735,51,7,7,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08736,51,8,7,,C08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08737,51,9,7,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08738,51,10,7,,C10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08739,51,11,7,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,51,12,7,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08740,52,1,7,,D01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08741,52,2,7,,D02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08743,52,3,7,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08744,52,4,7,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08745,52,5,7,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08746,52,6,7,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08747,52,7,7,sterile,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08749,52,8,7,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08750,52,9,7,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08751,52,10,7,,D10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08752,52,11,7,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,52,12,7,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08754,53,1,7,,E01,1,,2,H02,no match,0,Panagrolaimus sp.,similar scores,Panagrolaimus sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08755,53,2,7,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08757,53,3,7,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08759,53,4,7,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08761,53,5,7,,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08762,53,6,7,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08763,53,7,7,,E07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08766,53,8,7,,E08,1,,2,H03,C. elegans,0,0,0,C. elegans,202,A04,201,H04,C. elegans,0,C. elegans,ECA1220
+S-08767,53,9,7,no worms,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08768,53,10,7,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08770,53,11,7,,E11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,53,12,7,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08771,54,1,7,,F01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08773,54,2,7,no worms,F02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08775,54,3,7,,F03,1,,2,H04,C. elegans,mismatch,C. elegans,0,C. elegans,202,A05,201,H05,C. elegans,0,C. elegans,ECA1221
+S-08776,54,4,7,,F04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08777,54,5,7,,F05,1,,2,H05,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08781,54,6,7,no worms,F06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08782,54,7,7,,F07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08785,54,8,7,,F08,1,,2,H06,no match,0,Panagrolaimus sp.,similar scores,Panagrolaimus sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08786,54,9,7,,F09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08787,54,10,7,,F10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08788,54,11,7,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,54,12,7,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08790,55,1,7,,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08791,55,2,7,,G02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08794,55,3,7,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08795,55,4,7,,G04,1,,2,H07,C. elegans,mismatch,C. elegans,0,C. elegans,202,A06,201,H06,C. elegans,0,C. elegans,ECA1222
+S-08796,55,5,7,,G05,1,,2,H08,C. elegans,mismatches,C. elegans,mismatch,C. elegans,202,A07,201,H07,C. elegans,0,C. elegans,ECA1223
+S-08797,55,6,7,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08799,55,7,7,,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08800,55,8,7,no worms,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08801,55,9,7,,G09,1,,2,H09,C. elegans,mismatch,C. elegans,mismatch,C. elegans,202,A08,201,H08,C. elegans,0,C. elegans,ECA1224
+S-08802,55,10,7,,G10,1,,2,H10,C. elegans,mismatch,no match,0,C. elegans,202,A09,201,H09,C. elegans,0,C. elegans,ECA1225
+S-08803,55,11,7,,G11,1,,2,H11,C. elegans,mismatch,C. elegans,mismatch,C. elegans,202,A10,201,H10,C. elegans,0,C. elegans,ECA1226
+positive control,55,12,7,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08804,56,1,7,,H01,1,,2,H12,C. elegans,0,0,0,C. elegans,202,A11,201,H11,C. elegans,0,C. elegans,ECA1227
+S-08806,56,2,7,,H02,1,,3,A01,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08807,56,3,7,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08808,56,4,7,no worms,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08809,56,5,7,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08810,56,6,7,,H06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08811,56,7,7,,H07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08817,56,8,7,,H08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08818,56,9,7,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08819,56,10,7,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08820,56,11,7,,H11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,56,12,7,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08823,57,1,8,,A01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08824,57,2,8,,A02,1,faint,3,A02,no match,0,no match,0,no match,202,B01,201,H12,C. elegans,many mismatches,#N/A,#N/A
+S-08825,57,3,8,no worms,A03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08826,57,4,8,,A04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08827,57,5,8,,A05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08828,57,6,8,,A06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08829,57,7,8,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08830,57,8,8,no worms,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08831,57,9,8,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08832,57,10,8,no worms,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08833,57,11,8,no worms,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,57,12,8,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08834,58,1,8,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08835,58,2,8,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08836,58,3,8,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08837,58,4,8,,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08838,58,5,8,,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08839,58,6,8,,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08840,58,7,8,no worms,B07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08843,58,8,8,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08844,58,9,8,,B09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08848,58,10,8,,B10,1,,3,A03,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08849,58,11,8,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,58,12,8,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08850,59,1,8,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08851,59,2,8,,C02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08853,59,3,8,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08854,59,4,8,,C04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08856,59,5,8,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08857,59,6,8,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08859,59,7,8,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08862,59,8,8,,C08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08863,59,9,8,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08865,59,10,8,,C10,1,,3,A04,C. elegans,0,0,0,C. elegans,202,B02,202,A01,C. elegans,0,C. elegans,ECA1228
+S-08870,59,11,8,,C11,1,,3,A06,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,59,12,8,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08871,60,1,8,,D01,1,,3,A07,Oscheius sp.,low score,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08872,60,2,8,,D02,1,,3,A08,Oscheius sp.,0,0,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08873,60,3,8,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08878,60,4,8,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08880,60,5,8,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08887,60,6,8,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08889,60,7,8,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08890,60,8,8,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08891,60,9,8,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08892,60,10,8,,D10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08896,60,11,8,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,60,12,8,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08898,61,1,8,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08899,61,2,8,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08900,61,3,8,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08901,61,4,8,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08902,61,5,8,,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08903,61,6,8,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08904,61,7,8,,E07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08907,61,8,8,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08909,61,9,8,,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08910,61,10,8,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08912,61,11,8,,E11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,61,12,8,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08914,62,1,8,,F01,1,,3,A09,C. elegans,0,0,0,C. elegans,202,B03,202,A02,C. elegans,0,C. elegans,ECA1229
+S-08915,62,2,8,,F02,1,,3,A10,C. elegans,0,0,0,C. elegans,202,B04,202,A03,C. elegans,0,C. elegans,ECA1230
+S-08916,62,3,8,dead worms,F03,1,,3,A11,C. elegans,0,0,0,C. elegans,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08921,62,4,8,,F04,1,,3,A12,C. elegans,0,0,0,C. elegans,202,B06,202,A04,C. elegans,0,C. elegans,ECA1231
+S-08922,62,5,8,,F05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08923,62,6,8,,F06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08924,62,7,8,,F07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08925,62,8,8,,F08,1,,3,B01,C. elegans,0,0,0,C. elegans,202,B07,202,A05,C. elegans,0,C. elegans,ECA1232
+S-08926,62,9,8,dead worms,F09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08927,62,10,8,,F10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08928,62,11,8,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,62,12,8,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08929,63,1,8,,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08930,63,2,8,,G02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08931,63,3,8,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08932,63,4,8,,G04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08933,63,5,8,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08934,63,6,8,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08935,63,7,8,,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08936,63,8,8,,G08,1,,3,B02,C. elegans,0,0,0,C. elegans,202,B08,202,A06,C. elegans,0,C. elegans,ECA1233
+S-08937,63,9,8,dead worms,G09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08938,63,10,8,dead worms,G10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08939,63,11,8,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,63,12,8,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08940,64,1,8,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08942,64,2,8,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08943,64,3,8,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08944,64,4,8,,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08946,64,5,8,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08949,64,6,8,,H06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08950,64,7,8,,H07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08951,64,8,8,,H08,1,faint,3,B03,Oryzias latipes,low score,Oscheius sp.,mismatch,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08952,64,9,8,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08953,64,10,8,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08954,64,11,8,,H11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,64,12,8,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08955,65,1,9,no worms,A01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08956,65,2,9,,A02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08957,65,3,9,,A03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08958,65,4,9,,A04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08959,65,5,9,,A05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08964,65,6,9,,A06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08966,65,7,9,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08967,65,8,9,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08969,65,9,9,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08970,65,10,9,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08971,65,11,9,,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,65,12,9,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08972,66,1,9,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08973,66,2,9,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08974,66,3,9,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08976,66,4,9,,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08977,66,5,9,,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08978,66,6,9,,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08980,66,7,9,,B07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08987,66,8,9,no worms,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08989,66,9,9,,B09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08990,66,10,9,,B10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08991,66,11,9,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,66,12,9,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08993,67,1,9,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08994,67,2,9,,C02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08995,67,3,9,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08997,67,4,9,,C04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08999,67,5,9,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09000,67,6,9,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09004,67,7,9,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09005,67,8,9,,C08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09006,67,9,9,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09007,67,10,9,,C10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09008,67,11,9,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,67,12,9,,C12,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09009,68,1,9,,D01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09011,68,2,9,,D02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09012,68,3,9,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09013,68,4,9,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09014,68,5,9,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09015,68,6,9,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09017,68,7,9,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09018,68,8,9,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09020,68,9,9,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09023,68,10,9,,D10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09024,68,11,9,,D11,1,,3,B04,no match,0,no match,0,no match,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,68,12,9,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09025,69,1,9,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09026,69,2,9,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09027,69,3,9,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09028,69,4,9,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09029,69,5,9,no worms,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09030,69,6,9,no worms,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09031,69,7,9,no worms,E07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09032,69,8,9,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09033,69,9,9,,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09034,69,10,9,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,69,11,9,switched position with positive control,E11,1,S-09035 accidentally switched position with positive control. Treat as positive control,3,B06,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09035,69,12,9,switched position with S-09035,E12,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09036,70,1,9,,F01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09037,70,2,9,,F02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09038,70,3,9,,F03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09039,70,4,9,no worms,F04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09040,70,5,9,no worms,F05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09041,70,6,9,,F06,1,,3,B07,C. elegans,0,0,0,C. elegans,202,B10,202,A07,C. elegans,0,C. elegans,ECA1234
+S-09042,70,7,9,,F07,1,,3,B08,C. elegans,0,0,0,C. elegans,202,B11,202,A08,C. elegans,0,C. elegans,ECA1235
+S-09043,70,8,9,,F08,1,,3,B09,C. elegans,0,0,0,C. elegans,202,C01,202,A09,C. elegans,0,C. elegans,ECA1236
+S-09045,70,9,9,,F09,1,,3,B10,C. elegans,0,0,0,C. elegans,202,C02,202,A10,C. elegans,0,C. elegans,ECA1237
+S-09046,70,10,9,,F10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09047,70,11,9,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,70,12,9,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09048,71,1,9,,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09050,71,2,9,,G02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09051,71,3,9,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09053,71,4,9,,G04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09054,71,5,9,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09055,71,6,9,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09056,71,7,9,,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09058,71,8,9,,G08,1,,3,B11,C. elegans,0,0,0,C. elegans,202,C03,202,A11,C. elegans,0,C. elegans,ECA1238
+S-09059,71,9,9,,G09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09060,71,10,9,,G10,1,,3,B12,C. elegans,0,0,0,C. elegans,202,C04,202,A12,C. elegans,0,C. elegans,ECA1239
+S-09061,71,11,9,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,71,12,9,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09062,72,1,9,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09063,72,2,9,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09064,72,3,9,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09065,72,4,9,,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09066,72,5,9,,H05,1,faint,3,C01,C. elegans,0,0,0,C. elegans,202,C05,202,B03,C. elegans,0,C. elegans,ECA1240
+S-09069,72,6,9,,H06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09073,72,7,9,,H07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09074,72,8,9,,H08,1,,3,C02,C. elegans,0,0,0,C. elegans,202,C06,202,B04,C. elegans,0,C. elegans,ECA1241
+S-09075,72,9,9,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09076,72,10,9,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09077,72,11,9,,H11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,72,12,9,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09078,73,1,10,,A01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09079,73,2,10,,A02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09080,73,3,10,,A03,1,,3,C03,C. elegans,0,0,0,C. elegans,202,C07,202,B05,C. elegans,0,C. elegans,ECA1242
+S-09081,73,4,10,,A04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09082,73,5,10,,A05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09088,73,6,10,,A06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09089,73,7,10,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09095,73,8,10,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09099,73,9,10,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09100,73,10,10,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09102,73,11,10,,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,73,12,10,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09103,74,1,10,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09104,74,2,10,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09105,74,3,10,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09106,74,4,10,,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09107,74,5,10,,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09108,74,6,10,,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09111,74,7,10,,B07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09112,74,8,10,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09113,74,9,10,,B09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09114,74,10,10,,B10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09115,74,11,10,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,74,12,10,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09116,75,1,10,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09120,75,2,10,no worms,C02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09127,75,3,10,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09128,75,4,10,,C04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09136,75,5,10,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09137,75,6,10,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09139,75,7,10,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09140,75,8,10,,C08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09141,75,9,10,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09142,75,10,10,,C10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09145,75,11,10,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,75,12,10,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09146,76,1,10,,D01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09147,76,2,10,,D02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09148,76,3,10,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09151,76,4,10,no worms,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09152,76,5,10,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09153,76,6,10,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09154,76,7,10,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09155,76,8,10,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09156,76,9,10,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09158,76,10,10,,D10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09159,76,11,10,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,76,12,10,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09160,77,1,10,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09161,77,2,10,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09162,77,3,10,,E03,1,,3,C04,C. elegans,0,0,0,C. elegans,202,C08,202,B06,C. elegans,0,C. elegans,ECA1243
+S-09163,77,4,10,,E04,1,faint,3,C06,C. elegans,0,0,0,C. elegans,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09164,77,5,10,,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09165,77,6,10,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09166,77,7,10,,E07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09167,77,8,10,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09168,77,9,10,,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09169,77,10,10,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09170,77,11,10,,E11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,77,12,10,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09171,78,1,10,,F01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09172,78,2,10,,F02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09173,78,3,10,,F03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09174,78,4,10,,F04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09175,78,5,10,,F05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09176,78,6,10,,F06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09178,78,7,10,,F07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09179,78,8,10,,F08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09180,78,9,10,,F09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09181,78,10,10,,F10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09188,78,11,10,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,78,12,10,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09189,79,1,10,,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09190,79,2,10,,G02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09192,79,3,10,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09193,79,4,10,,G04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09194,79,5,10,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09197,79,6,10,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09200,79,7,10,,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09201,79,8,10,no worms,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09202,79,9,10,,G09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09203,79,10,10,,G10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09204,79,11,10,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,79,12,10,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09206,80,1,10,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09207,80,2,10,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09209,80,3,10,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09210,80,4,10,,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09212,80,5,10,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09213,80,6,10,no worms,H06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09214,80,7,10,no worms,H07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09215,80,8,10,no worms,H08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09216,80,9,10,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09218,80,10,10,,H10,1,,3,C07,no match,0,no match,0,no match,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09219,80,11,10,,H11,1,,3,C08,Oscheius sp.,0,0,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,80,12,10,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09220,81,1,11,,A01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09221,81,2,11,,A02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09222,81,3,11,,A03,1,,3,C09,C. elegans,0,0,0,C. elegans,202,C11,202,B07,C. elegans,0,C. elegans,ECA1244
+S-09223,81,4,11,,A04,1,,3,C10,C. elegans,0,0,0,C. elegans,202,D01,202,B08,C. elegans,0,C. elegans,ECA1245
+S-09225,81,5,11,,A05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09226,81,6,11,,A06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09227,81,7,11,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09228,81,8,11,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09229,81,9,11,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09230,81,10,11,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09231,81,11,11,,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,81,12,11,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09232,82,1,11,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09235,82,2,11,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09236,82,3,11,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09239,82,4,11,,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09240,82,5,11,,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09243,82,6,11,no worms,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09244,82,7,11,no worms,B07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09245,82,8,11,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09250,82,9,11,,B09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09259,82,10,11,no worms,B10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09267,82,11,11,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,82,12,11,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09271,83,1,11,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09272,83,2,11,,C02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09280,83,3,11,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09281,83,4,11,,C04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09282,83,5,11,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09284,83,6,11,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09285,83,7,11,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09286,83,8,11,,C08,1,,3,C11,C. elegans,0,0,0,C. elegans,202,D02,202,B09,C. elegans,0,C. elegans,ECA1246
+S-09287,83,9,11,,C09,1,,3,C12,C. elegans,0,0,0,C. elegans,202,D03,202,B10,C. elegans,0,C. elegans,ECA1247
+S-09288,83,10,11,,C10,1,,3,D01,0,0,C. elegans,0,C. elegans,202,D04,202,B11,C. elegans,0,C. elegans,ECA1248
+S-09290,83,11,11,,C11,1,,3,D02,Choriorhabditis cristata,0,Caenorhabditis sp. 2,low score,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,83,12,11,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09291,84,1,11,,D01,1,,3,D03,Choriorhabditis cristata,0,Caenorhabditis sp. 2,low score,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09292,84,2,11,,D02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09293,84,3,11,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09294,84,4,11,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09295,84,5,11,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09296,84,6,11,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09299,84,7,11,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09300,84,8,11,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09305,84,9,11,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09306,84,10,11,,D10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09307,84,11,11,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,84,12,11,,D12,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09310,85,1,11,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09312,85,2,11,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09313,85,3,11,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09315,85,4,11,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09316,85,5,11,,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09318,85,6,11,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09321,85,7,11,,E07,1,,3,D04,C. briggsae,0,0,0,C. briggsae,202,D05,202,B12,C. briggsae,0,C. briggsae,ECA1177
+S-09322,85,8,11,,E08,1,,3,D06,C. briggsae,0,0,0,C. briggsae,202,D06,202,C01,C. briggsae,0,C. briggsae,ECA1178
+S-09323,85,9,11,,E09,1,,3,D07,C. briggsae,0,0,0,C. briggsae,202,D07,202,C02,C. briggsae,0,C. briggsae,ECA1179
+S-09324,85,10,11,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09326,85,11,11,,E11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,85,12,11,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09327,86,1,11,,F01,1,,3,D08,C. briggsae,0,0,0,C. briggsae,202,D08,202,C03,C. briggsae,0,C. briggsae,ECA1180
+S-09328,86,2,11,,F02,1,,3,D09,C. briggsae,0,0,0,C. briggsae,202,D09,202,C04,C. briggsae,0,C. briggsae,ECA1181
+S-09333,86,3,11,,F03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09335,86,4,11,,F04,1,,3,D10,C. elegans,0,0,0,C. elegans,202,D10,202,C05,C. elegans,0,C. elegans,ECA1249
+S-09338,86,5,11,,F05,1,,3,D11,C. elegans,0,0,0,C. elegans,202,D11,202,C06,C. elegans,0,C. elegans,ECA1250
+S-09339,86,6,11,no worms,F06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09340,86,7,11,,F07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09341,86,8,11,,F08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09342,86,9,11,,F09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09343,86,10,11,,F10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09345,86,11,11,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,86,12,11,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09346,87,1,11,,G01,1,,3,D12,C. elegans,0,0,0,C. elegans,202,E01,202,C07,C. elegans,0,C. elegans,ECA1251
+S-09347,87,2,11,,G02,1,,3,E01,C. elegans,0,0,0,C. elegans,202,E02,202,C08,C. elegans,0,C. elegans,ECA1252
+S-09348,87,3,11,no worms,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09349,87,4,11,,G04,1,,3,E02,C. elegans,0,0,0,C. elegans,202,E03,202,C09,C. elegans,0,C. elegans,ECA1253
+S-09350,87,5,11,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09351,87,6,11,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09354,87,7,11,,G07,1,,3,E03,C. elegans,0,0,0,C. elegans,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09355,87,8,11,,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09356,87,9,11,,G09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09357,87,10,11,,G10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09358,87,11,11,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,87,12,11,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09359,88,1,11,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09360,88,2,11,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09365,88,3,11,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09366,88,4,11,,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09367,88,5,11,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09368,88,6,11,,H06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09369,88,7,11,,H07,1,,3,E04,C. elegans,0,0,0,C. elegans,202,E05,202,C10,C. elegans,0,C. elegans,ECA1254
+S-09370,88,8,11,,H08,1,,3,E05,C. elegans,0,0,0,C. elegans,202,E06,202,C11,C. elegans,0,C. elegans,ECA1255
+S-09371,88,9,11,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09372,88,10,11,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09374,88,11,11,,H11,1,,3,E06,C. elegans,0,0,0,C. elegans,202,E07,202,C12,C. elegans,0,C. elegans,ECA1256
+positive control,88,12,11,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09375,89,1,12,,A01,1,,3,E07,C. elegans,0,0,0,C. elegans,202,E08,202,D01,C. elegans,0,C. elegans,ECA1257
+S-09376,89,2,12,,A02,1,,3,E08,C. elegans,0,0,0,C. elegans,202,E09,202,D02,C. elegans,0,C. elegans,ECA1258
+S-09377,89,3,12,,A03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09378,89,4,12,,A04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09379,89,5,12,,A05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09380,89,6,12,,A06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09381,89,7,12,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09382,89,8,12,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09383,89,9,12,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09384,89,10,12,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09385,89,11,12,no worms,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,89,12,12,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09386,90,1,12,,B01,1,,3,E09,C. elegans,0,0,0,C. elegans,202,E10,202,D03,C. elegans,0,C. elegans,ECA1259
+S-09387,90,2,12,,B02,1,,3,E10,C. elegans,0,0,0,C. elegans,202,E11,202,D04,C. elegans,0,C. elegans,ECA1260
+S-09388,90,3,12,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09389,90,4,12,no worms,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09390,90,5,12,,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09393,90,6,12,,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09394,90,7,12,,B07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09395,90,8,12,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09397,90,9,12,,B09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09398,90,10,12,,B10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09399,90,11,12,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,90,12,12,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09400,91,1,12,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09403,91,2,12,no worms,C02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09405,91,3,12,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09406,91,4,12,,C04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09407,91,5,12,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09408,91,6,12,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09409,91,7,12,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09410,91,8,12,dauers,C08,1,,3,E11,C. elegans,0,0,0,C. elegans,202,F01,202,D05,C. elegans,0,C. elegans,ECA1261
+S-09411,91,9,12,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09412,91,10,12,,C10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09414,91,11,12,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,91,12,12,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09415,92,1,12,,D01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09417,92,2,12,,D02,1,,3,E12,C. elegans,0,0,0,C. elegans,203,B06,202,G10,C. elegans,0,C. elegans,ECA1262
+S-09418,92,3,12,,D03,1,,3,F01,C. elegans,0,0,0,C. elegans,202,F03,202,D06,C. elegans,0,C. elegans,ECA1263
+S-09419,92,4,12,,D04,1,,3,F02,C. elegans,0,0,0,C. elegans,202,F04,202,D07,C. elegans,0,C. elegans,ECA1264
+S-09421,92,5,12,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09422,92,6,12,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09423,92,7,12,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09424,92,8,12,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09425,92,9,12,no worms,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09426,92,10,12,,D10,1,,3,F03,C. elegans,0,0,0,C. elegans,202,F05,202,D08,C. elegans,0,C. elegans,ECA1265
+S-09427,92,11,12,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,92,12,12,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09428,93,1,12,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09429,93,2,12,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09430,93,3,12,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09431,93,4,12,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09432,93,5,12,,E05,1,,3,F04,C. elegans,0,0,0,C. elegans,202,F06,202,D09,C. elegans,0,C. elegans,ECA1266
+S-09434,93,6,12,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09436,93,7,12,,E07,1,,3,F05,C. elegans,0,0,0,C. elegans,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09437,93,8,12,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09439,93,9,12,dead,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09440,93,10,12,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09441,93,11,12,,E11,1,,3,F06,C. elegans,0,0,0,C. elegans,202,F08,202,D10,C. elegans,0,C. elegans,ECA1267
+positive control,93,12,12,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09442,94,1,12,,F01,1,,3,F07,C. elegans,0,0,0,C. elegans,202,F09,202,D11,C. elegans,0,C. elegans,ECA1268
+S-09443,94,2,12,,F02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09444,94,3,12,,F03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09445,94,4,12,,F04,1,,3,F08,C. elegans,0,0,0,C. elegans,202,F10,202,D12,C. elegans,0,C. elegans,ECA1269
+S-09446,94,5,12,no worms,F05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09447,94,6,12,no worms,F06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09448,94,7,12,,F07,1,,3,F09,C. elegans,0,0,0,C. elegans,202,F11,202,E01,C. elegans,lot of mismatches. Maybe similar to above,C. elegans,ECA1270
+S-09450,94,8,12,,F08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09453,94,9,12,,F09,1,,3,F10,C. elegans,0,0,0,C. elegans,202,G01,202,E02,C. elegans,lot of mismatches. Maybe similar to above,C. elegans,ECA1271
+S-09454,94,10,12,,F10,1,,3,F11,C. elegans,0,0,0,C. elegans,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09457,94,11,12,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,94,12,12,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09458,95,1,12,,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09459,95,2,12,,G02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09460,95,3,12,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09461,95,4,12,,G04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09462,95,5,12,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09466,95,6,12,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09467,95,7,12,no worms,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09468,95,8,12,,G08,1,,3,F12,C. elegans,0,0,0,C. elegans,202,G03,202,E03,C. elegans,0,C. elegans,ECA1272
+S-09469,95,9,12,,G09,1,,3,G01,C. elegans,0,0,0,C. elegans,202,G04,202,E04,C. elegans,0,C. elegans,ECA1273
+S-09471,95,10,12,,G10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09472,95,11,12,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,95,12,12,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09473,96,1,12,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09474,96,2,12,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09475,96,3,12,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09476,96,4,12,,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09477,96,5,12,,H05,1,,3,G02,C. elegans,0,0,0,C. elegans,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09478,96,6,12,,H06,1,,3,G03,C. elegans,0,0,0,C. elegans,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09479,96,7,12,,H07,1,,3,G04,C. elegans,0,0,0,C. elegans,202,G07,202,E05,C. elegans,0,C. elegans,ECA1274
+S-09480,96,8,12,,H08,1,,3,G05,C. elegans,0,0,0,C. elegans,202,G08,202,E06,C. elegans,0,C. elegans,ECA1275
+S-09481,96,9,12,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09482,96,10,12,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09483,96,11,12,,H11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,96,12,12,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09484,97,1,13,,A01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09487,97,2,13,,A02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09488,97,3,13,no worms,A03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09489,97,4,13,,A04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09493,97,5,13,,A05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09494,97,6,13,,A06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09495,97,7,13,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09496,97,8,13,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09497,97,9,13,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09499,97,10,13,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09500,97,11,13,,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,97,12,13,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09502,98,1,13,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09503,98,2,13,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09504,98,3,13,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09514,98,4,13,,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09515,98,5,13,,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09518,98,6,13,,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09519,98,7,13,,B07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09526,98,8,13,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09537,98,9,13,,B09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09538,98,10,13,,B10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09540,98,11,13,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,98,12,13,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09541,99,1,13,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09542,99,2,13,,C02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09544,99,3,13,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09545,99,4,13,,C04,1,,3,G06,C. elegans,0,0,0,C. elegans,202,G09,202,E07,C. elegans,0,C. elegans,ECA1276
+S-09547,99,5,13,,C05,1,,3,G07,C. elegans,0,0,0,C. elegans,202,G10,202,E08,C. elegans,0,C. elegans,ECA1277
+S-09548,99,6,13,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09549,99,7,13,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09550,99,8,13,,C08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09551,99,9,13,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09552,99,10,13,,C10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09556,99,11,13,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,99,12,13,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09557,100,1,13,,D01,1,,3,G08,Auanema freiburgensis,0,Auanema freiburgensis,mismatch,Auanema freiburgensis,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09558,100,2,13,,D02,1,,3,G09,Auanema freiburgensis,0,Auanema freiburgensis,mismatch,Auanema freiburgensis,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09560,100,3,13,,D03,1,,3,G10,Auanema freiburgensis,0,Auanema freiburgensis,mismatch,Auanema freiburgensis,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09561,100,4,13,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09600,100,5,13,,D05,1,,3,G11,C. elegans,0,0,0,C. elegans,202,G11,202,E09,C. elegans,0,C. elegans,ECA1278
+S-09625,100,6,13,,D06,1,,3,G12,C. elegans,0,0,0,C. elegans,202,H01,202,E10,C. elegans,0,C. elegans,ECA1279
+S-09630,100,7,13,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09631,100,8,13,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09632,100,9,13,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09633,100,10,13,no worms,D10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09634,100,11,13,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,100,12,13,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09635,101,1,13,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09636,101,2,13,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09637,101,3,13,no worms,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09638,101,4,13,no worms,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09639,101,5,13,no worms,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09640,101,6,13,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09645,101,7,13,no worms,E07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09646,101,8,13,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09649,101,9,13,,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09651,101,10,13,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09652,101,11,13,,E11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,101,12,13,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09653,102,1,13,,F01,1,,3,H01,C. elegans,0,0,0,C. elegans,202,H02,202,E11,C. elegans,0,C. elegans,ECA1280
+S-09654,102,2,13,,F02,1,,3,H02,C. elegans,0,0,0,C. elegans,202,H03,202,E12,C. elegans,0,C. elegans,ECA1281
+S-09656,102,3,13,,F03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09663,102,4,13,,F04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09664,102,5,13,,F05,1,,3,H03,C. elegans,0,0,0,C. elegans,202,H04,202,F01,C. elegans,0,C. elegans,ECA1282
+S-09665,102,6,13,,F06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09666,102,7,13,,F07,1,,3,H04,C. briggsae,0,0,0,C. briggsae,202,H05,202,F02,C. briggsae,0,C. briggsae,ECA1182
+S-09667,102,8,13,,F08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09668,102,9,13,,F09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09669,102,10,13,,F10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09674,102,11,13,,F11,1,,3,H05,C. elegans,0,0,0,C. elegans,202,H06,202,F03,C. elegans,0,C. elegans,ECA1283
+positive control,102,12,13,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09675,103,1,13,,G01,1,,3,H06,Auanema freiburgensis,0,Auanema freiburgensis,mismatch,Auanema freiburgensis,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09676,103,2,13,,G02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09679,103,3,13,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09681,103,4,13,,G04,1,,3,H07,no match,0,Panagrolaimus sp.,similar scores,Panagrolaimus sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09682,103,5,13,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09689,103,6,13,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09691,103,7,13,no worms,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09693,103,8,13,,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09694,103,9,13,no worms,G09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09695,103,10,13,,G10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09697,103,11,13,no worms,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,103,12,13,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09698,104,1,13,no worms,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09700,104,2,13,,H02,1,faint,3,H08,Oryzias latipes,low score,Nematode sp.,low score,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09701,104,3,13,,H03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09702,104,4,13,,H04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09703,104,5,13,no worms,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09704,104,6,13,no worms,H06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09705,104,7,13,,H07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09707,104,8,13,,H08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09709,104,9,13,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09711,104,10,13,,H10,1,,3,H09,C. elegans,0,0,0,C. elegans,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09712,104,11,13,,H11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,104,12,13,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09713,105,1,14,,A01,1,,3,H10,C. elegans,0,0,0,C. elegans,202,H08,202,F04,C. elegans,0,C. elegans,ECA1284
+S-09715,105,2,14,,A02,1,,3,H11,C. elegans,0,0,0,C. elegans,202,H09,202,F05,C. elegans,0,C. elegans,ECA1285
+S-09720,105,3,14,,A03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09721,105,4,14,,A04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09724,105,5,14,,A05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09725,105,6,14,,A06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09727,105,7,14,,A07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09731,105,8,14,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09733,105,9,14,,A09,1,,3,H12,Choriorhabditis cristata,0,Ianiropsis epilittoralis,very low score,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09734,105,10,14,,A10,1,,4,A01,Choriorhabditis cristata,0,Caenorhabditis sp. 2,low score,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09735,105,11,14,,A11,1,,4,A02,Choriorhabditis cristata,0,Caenorhabditis sp. 2,low score,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,105,12,14,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09737,106,1,14,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09738,106,2,14,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09739,106,3,14,,B03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09740,106,4,14,,B04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09741,106,5,14,,B05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09743,106,6,14,,B06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09744,106,7,14,,B07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09746,106,8,14,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09747,106,9,14,,B09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09750,106,10,14,,B10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09751,106,11,14,,B11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,106,12,14,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09753,107,1,14,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09754,107,2,14,,C02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09755,107,3,14,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09756,107,4,14,,C04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09757,107,5,14,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09758,107,6,14,,C06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09759,107,7,14,,C07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09760,107,8,14,,C08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09762,107,9,14,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09763,107,10,14,,C10,1,,4,A03,C. elegans,0,0,0,C. elegans,202,H10,202,F06,C. elegans,0,C. elegans,ECA1286
+S-09764,107,11,14,,C11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,107,12,14,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09765,108,1,14,,D01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09767,108,2,14,,D02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09768,108,3,14,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09769,108,4,14,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09770,108,5,14,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09771,108,6,14,,D06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09772,108,7,14,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09773,108,8,14,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09774,108,9,14,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09775,108,10,14,,D10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09776,108,11,14,,D11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,108,12,14,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09777,109,1,14,,E01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09778,109,2,14,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09780,109,3,14,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09781,109,4,14,,E04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09782,109,5,14,,E05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09783,109,6,14,,E06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09784,109,7,14,,E07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09785,109,8,14,,E08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09786,109,9,14,,E09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09787,109,10,14,,E10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09789,109,11,14,,E11,1,,4,A04,C. elegans,0,0,0,C. elegans,202,H11,202,F07,C. elegans,0,C. elegans,ECA1287
+positive control,109,12,14,,E12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09790,110,1,14,,F01,1,,4,A05,Auanema freiburgensis,0,Auanema freiburgensis,0,Auanema freiburgensis,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09791,110,2,14,,F02,1,,4,A06,C. elegans,0,0,0,C. elegans,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09792,110,3,14,,F03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09793,110,4,14,,F04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09795,110,5,14,,F05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09796,110,6,14,,F06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09797,110,7,14,,F07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09798,110,8,14,,F08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09799,110,9,14,,F09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09800,110,10,14,,F10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09801,110,11,14,,F11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,110,12,14,,F12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09802,111,1,14,,G01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09803,111,2,14,,G02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09804,111,3,14,,G03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09805,111,4,14,,G04,1,,4,A08,C. briggsae,0,0,0,C. briggsae,203,A02,202,F08,C. briggsae,0,C. briggsae,ECA1183
+S-09807,111,5,14,,G05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09808,111,6,14,,G06,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09809,111,7,14,,G07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09810,111,8,14,,G08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09811,111,9,14,,G09,1,,4,A09,C. elegans,0,0,0,C. elegans,203,A03,202,F09,C. elegans,0,C. elegans,ECA1288
+S-09812,111,10,14,,G10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09813,111,11,14,,G11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,111,12,14,,G12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09815,112,1,14,,H01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09816,112,2,14,,H02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09817,112,3,14,,H03,1,,4,A10,C. elegans,0,0,0,C. elegans,203,A04,202,F10,C. elegans,0,C. elegans,ECA1289
+S-09819,112,4,14,,H04,1,,4,A11,C. briggsae,0,0,0,C. briggsae,203,A05,202,F11,C. elegans,mismatch,#N/A,#N/A
+S-09825,112,5,14,,H05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09826,112,6,14,,H06,1,,4,A12,C. elegans,0,0,0,C. elegans,203,A06,202,F12,C. elegans,0,C. elegans,ECA1290
+S-09827,112,7,14,,H07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09828,112,8,14,,H08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09829,112,9,14,,H09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09834,112,10,14,,H10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09835,112,11,14,,H11,1,,4,B01,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,112,12,14,,H12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09836,113,1,15,,A01,1,,4,B02,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09837,113,2,15,,A02,1,,4,B03,C. elegans,0,0,0,C. elegans,203,A07,202,G01,Oscheius myriophilus,0,#N/A,#N/A
+S-09839,113,3,15,,A03,1,,4,B04,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09840,113,4,15,no worms,A04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09841,113,5,15,,A05,1,,4,B05,C. elegans,0,0,0,C. elegans,203,A08,202,G02,C. elegans,0,C. elegans,ECA1291
+S-09842,113,6,15,,A06,1,,4,B06,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09843,113,7,15,,A07,1,,4,B08,Oscheius sp.,0,0,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09845,113,8,15,,A08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09846,113,9,15,,A09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09849,113,10,15,,A10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09850,113,11,15,,A11,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,113,12,15,,A12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09852,114,1,15,,B01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09853,114,2,15,,B02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09854,114,3,15,,B03,1,,4,B09,Micromonospora chokoriensis,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09855,114,4,15,,B04,1,,4,B10,Mus Musculus,low score,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09856,114,5,15,,B05,1,,4,B11,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09857,114,6,15,,B06,1,,4,B12,Oscheius myriophila,0,0,0,Oscheius myriophila,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09858,114,7,15,,B07,1,,4,C01,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09865,114,8,15,,B08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09873,114,9,15,,B09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09875,114,10,15,,B10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09876,114,11,15,,B11,1,faint,4,C02,Oryzias latipes,low score,Mesorhabditis belari,mismatch,ambiguous,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,114,12,15,,B12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09883,115,1,15,,C01,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09884,115,2,15,,C02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09887,115,3,15,,C03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09891,115,4,15,,C04,1,,4,C03,C. elegans,0,0,0,C. elegans,203,A09,202,G03,C. elegans,0,C. elegans,ECA1292
+S-09894,115,5,15,,C05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09923,115,6,15,,C06,1,faint,4,C04,no match,0,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09925,115,7,15,,C07,1,faint,4,C05,Apteryx australis,low score,Oscheius sp.,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09927,115,8,15,,C08,1,faint,4,C06,Alternaria solani,low score,Oscheius sp.,mismatch,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09931,115,9,15,,C09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09934,115,10,15,,C10,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09939,115,11,15,,C11,1,,4,C08,Oscheius sp.,0,0,0,Oscheius sp.,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,115,12,15,,C12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09953,116,1,15,,D01,1,,4,C09,C. elegans,0,0,0,C. elegans,203,A10,202,G04,C. elegans,0,C. elegans,ECA1293
+S-09955,116,2,15,,D02,1,,4,C10,C. elegans,0,0,0,C. elegans,203,A11,202,G05,C. elegans,0,C. elegans,ECA1294
+S-09956,116,3,15,,D03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09959,116,4,15,,D04,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09960,116,5,15,,D05,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09965,116,6,15,,D06,1,,4,C11,C. elegans,0,0,0,C. elegans,203,B01,202,G06,C. elegans,0,C. elegans,ECA1295
+S-09973,116,7,15,,D07,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09976,116,8,15,,D08,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09977,116,9,15,,D09,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09978,116,10,15,,D10,1,,4,C12,C. elegans,0,0,0,C. elegans,203,B02,202,G07,C. elegans,0,C. elegans,ECA1296
+S-09979,116,11,15,,D11,1,,4,D01,C. elegans,0,0,0,C. elegans,203,B03,202,G08,C. elegans,0,C. elegans,ECA1297
+positive control,116,12,15,,D12,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-09980,117,1,15,,E01,1,,4,D02,C. elegans,0,0,0,C. elegans,203,B04,202,G09,C. elegans,0,C. elegans,ECA1298
+S-08512,117,2,15,,E02,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+S-08546,117,3,15,,E03,0,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+positive control,117,12,15,,E04,1,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A

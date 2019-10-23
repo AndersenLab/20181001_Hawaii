@@ -1,0 +1,58 @@
+c_label_corrected	collection_type	island	confirmed_species_id	worms_on_sample	collection_longitude_photo	collection_latitude_photo	species_distinct_collections	number_of_strains_per_species
+C-3552-1	C. briggsae	Oahu	C. briggsae	Yes	-157.888639	21.400847	11	41
+C-3660	C. briggsae	Oahu	C. briggsae	Yes	-157.823939	21.342875	11	41
+C-3661	C. briggsae	Oahu	C. briggsae	Yes	-157.823253	21.343047	11	41
+C-1293	C. briggsae	Oahu	C. briggsae	Yes	-157.822994	21.342894	11	41
+C-1291	C. briggsae	Oahu	C. briggsae	Yes	-157.822131	21.3426	11	41
+C-1424	C. briggsae	Oahu	C. briggsae	Yes	-157.809842	21.341914	11	41
+C-1432	C. briggsae	Oahu	C. briggsae	Yes	-157.809739	21.341903	11	41
+C-2753	C. briggsae	Big Island	C. briggsae	Yes	-155.820061	19.120506	11	41
+C-4555	C. briggsae	Big Island	C. briggsae	Yes	-155.438067	20.038611	11	41
+C-4661	C. briggsae	Big Island	C. briggsae	Yes	-155.441989	20.040306	11	41
+C-4669	C. briggsae	Big Island	C. briggsae	Yes	-155.441944	20.040281	11	41
+C-3673	C. tropicalis	Oahu	C. tropicalis	Yes	-157.823853	21.342931	5	15
+C-3669	C. tropicalis	Oahu	C. tropicalis	Yes	-157.822025	21.340908	5	15
+C-1446	C. tropicalis	Oahu	C. tropicalis	Yes	-157.809561	21.342017	5	15
+C-1436	C. tropicalis	Oahu	C. tropicalis	Yes	-157.809542	21.341864	5	15
+C-4442	C. tropicalis	Big Island	C. tropicalis	Yes	-155.441103	20.040464	5	15
+C-3451-1	C. elegans	Big Island	C. elegans	Yes	-155.697525	19.105403	41	115
+C-2571	C. elegans	Big Island	C. elegans	Yes	-155.303442	19.438661	41	115
+C-2560	C. elegans	Big Island	C. elegans	Yes	-155.303339	19.438603	41	115
+C-2597	C. elegans	Big Island	C. elegans	Yes	-155.303367	19.438925	41	115
+C-2633-2	C. elegans	Big Island	C. elegans	Yes	-155.303422	19.438994	41	115
+C-3442-1	C. elegans	Big Island	C. elegans	Yes	-155.304014	19.439611	41	115
+C-3422-1	C. elegans	Big Island	C. elegans	Yes	-155.305067	19.439969	41	115
+C-3463-2	C. elegans	Big Island	C. elegans	Yes	-155.304914	19.441142	41	115
+C-1658	C. elegans	Big Island	C. elegans	Yes	-155.304619	19.441803	41	115
+C-1666	C. elegans	Big Island	C. elegans	Yes	-155.304625	19.441797	41	115
+C-1637	C. elegans	Big Island	C. elegans	Yes	-155.301722	19.442856	41	115
+C-1649	C. elegans	Big Island	C. elegans	Yes	-155.301294	19.441892	41	115
+C-1678	C. elegans	Big Island	C. elegans	Yes	-155.301494	19.440236	41	115
+C-1633	C. elegans	Big Island	C. elegans	Yes	-155.302017	19.440064	41	115
+C-1696-2	C. elegans	Big Island	C. elegans	Yes	-155.820194	19.114569	41	115
+C-0987	C. elegans	Big Island	C. elegans	Yes	-155.819194	19.115289	41	115
+C-0991	C. elegans	Big Island	C. elegans	Yes	-155.819108	19.115236	41	115
+C-1063	C. elegans	Big Island	C. elegans	Yes	-155.818569	19.115406	41	115
+C-2713	C. elegans	Big Island	C. elegans	Yes	-155.819614	19.120139000000002	41	115
+C-2737	C. elegans	Big Island	C. elegans	Yes	-155.819656	19.120692	41	115
+C-2733	C. elegans	Big Island	C. elegans	Yes	-155.819683	19.120686	41	115
+C-2745	C. elegans	Big Island	C. elegans	Yes	-155.819753	19.120631	41	115
+C-3603-1	C. elegans	Big Island	C. elegans	Yes	-155.948872	19.718764	41	115
+C-3491-1	C. elegans	Big Island	C. elegans	Yes	-155.821783	19.119419	41	115
+C-3611-1	C. elegans	Big Island	C. elegans	Yes	-155.949094	19.718972	41	115
+C-3434-2	C. elegans	Big Island	C. elegans	Yes	-155.951536	19.718953	41	115
+C-3569-2	C. elegans	Big Island	C. elegans	Yes	-155.954483	19.7188	41	115
+C-1421	C. elegans	Big Island	C. elegans	Yes	-155.947333	19.721356	41	115
+C-1433	C. elegans	Big Island	C. elegans	Yes	-155.94765	19.720719	41	115
+C-1437	C. elegans	Big Island	C. elegans	Yes	-155.947653	19.720575	41	115
+C-1410	C. elegans	Big Island	C. elegans	Yes	-155.947706	19.7205	41	115
+C-1426	C. elegans	Big Island	C. elegans	Yes	-155.947719	19.720489	41	115
+C-1306	C. elegans	Big Island	C. elegans	Yes	-155.948586	19.720131	41	115
+C-1160	C. elegans	Big Island	C. elegans	Yes	-155.948617	19.720103	41	115
+C-4568	C. elegans	Big Island	C. elegans	Yes	-155.439978	20.038594	41	115
+C-4521	C. elegans	Big Island	C. elegans	Yes	-155.438331	20.038475	41	115
+C-4594	C. elegans	Big Island	C. elegans	Yes	-155.441483	20.039722	41	115
+C-4563	C. elegans	Big Island	C. elegans	Yes	-155.441433	20.039703	41	115
+C-3190	C. elegans	Big Island	C. elegans	Yes	-155.443772	20.040864	41	115
+C-4449	C. elegans	Big Island	C. elegans	Yes	-155.443828	20.041411	41	115
+C-4627	C. elegans	Big Island	C. elegans	Yes	-155.440386	20.039569	41	115

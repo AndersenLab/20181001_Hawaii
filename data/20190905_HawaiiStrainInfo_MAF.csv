@@ -1,0 +1,338 @@
+species,strain,source_lab,latitude,longitude,landscape,substrate,substrate_temp,ambient_temp,substrate_moisture,ambient_humidity,photo,isolation_date
+C. briggsae,ECA1143,ECA,21.341914,-157.809842,Wild forest,Fruit,22.2,23.3,NA,88.9,https://web.fulcrumapp.com/photos/view?photos=46442bd3-1fbd-4774-8d75-7f7bcbdcc69c,11/7/18
+C. briggsae,ECA1144,ECA,21.341914,-157.809842,Wild forest,Fruit,22.2,23.3,NA,88.9,https://web.fulcrumapp.com/photos/view?photos=46442bd3-1fbd-4774-8d75-7f7bcbdcc69c,11/7/18
+C. briggsae,ECA1145,ECA,21.341914,-157.809842,Wild forest,Fruit,22.2,23.3,NA,88.9,https://web.fulcrumapp.com/photos/view?photos=46442bd3-1fbd-4774-8d75-7f7bcbdcc69c,11/7/18
+C. briggsae,ECA1146,ECA,21.341914,-157.809842,Wild forest,Fruit,22.2,23.3,NA,88.9,https://web.fulcrumapp.com/photos/view?photos=46442bd3-1fbd-4774-8d75-7f7bcbdcc69c,11/7/18
+C. briggsae,ECA1147,ECA,21.341903,-157.809739,Wild forest,Leaf litter,22.3,24,NA,87.5,https://web.fulcrumapp.com/photos/view?photos=159bea5c-cd69-4689-b5b5-3db0c55f9813,11/8/18
+C. briggsae,ECA1148,ECA,21.342875,-157.823939,Wild forest,Fruit,23.1,23.3,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=799682d7-b203-4fbe-af9c-ad1b7299c948,11/8/18
+C. briggsae,ECA1149,ECA,21.342875,-157.823939,Wild forest,Fruit,23.1,23.3,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=799682d7-b203-4fbe-af9c-ad1b7299c948,11/8/18
+C. briggsae,ECA1150,ECA,21.342875,-157.823939,Wild forest,Fruit,23.1,23.3,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=799682d7-b203-4fbe-af9c-ad1b7299c948,11/8/18
+C. briggsae,ECA1151,ECA,21.343047,-157.823253,Wild forest,Fruit,22.8,23.3,NA,96.3,https://web.fulcrumapp.com/photos/view?photos=ac0df661-fe54-46e9-ba73-1f88a286672a,11/8/18
+C. briggsae,ECA1152,ECA,21.343047,-157.823253,Wild forest,Fruit,22.8,23.3,NA,96.3,https://web.fulcrumapp.com/photos/view?photos=ac0df661-fe54-46e9-ba73-1f88a286672a,11/8/18
+C. briggsae,ECA1153,ECA,21.342894,-157.822994,Wild forest,Fruit,22.8,23.3,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=9100782e-9bf5-4531-bdf9-639a4011e20b,11/8/18
+C. briggsae,ECA1154,ECA,21.342894,-157.822994,Wild forest,Fruit,22.8,23.3,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=9100782e-9bf5-4531-bdf9-639a4011e20b,11/8/18
+C. briggsae,ECA1155,ECA,21.342894,-157.822994,Wild forest,Fruit,22.8,23.3,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=9100782e-9bf5-4531-bdf9-639a4011e20b,11/8/18
+C. briggsae,ECA1156,ECA,21.342894,-157.822994,Wild forest,Fruit,22.8,23.3,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=9100782e-9bf5-4531-bdf9-639a4011e20b,11/8/18
+C. briggsae,ECA1157,ECA,21.3426,-157.822131,Wild forest,Fruit,22.3,23.3,NA,94.8,https://web.fulcrumapp.com/photos/view?photos=f170f553-d58c-4d31-ab9b-eccef8604f39,11/8/18
+C. briggsae,ECA1158,ECA,21.3426,-157.822131,Wild forest,Fruit,22.3,23.3,NA,94.8,https://web.fulcrumapp.com/photos/view?photos=f170f553-d58c-4d31-ab9b-eccef8604f39,11/8/18
+C. briggsae,ECA1159,ECA,21.3426,-157.822131,Wild forest,Fruit,22.3,23.3,NA,94.8,https://web.fulcrumapp.com/photos/view?photos=f170f553-d58c-4d31-ab9b-eccef8604f39,11/8/18
+C. briggsae,ECA1160,ECA,21.342894,-157.822994,Wild forest,Fruit,22.8,23.3,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=9100782e-9bf5-4531-bdf9-639a4011e20b,11/8/18
+C. briggsae,ECA1161,ECA,21.342894,-157.822994,Wild forest,Fruit,22.8,23.3,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=9100782e-9bf5-4531-bdf9-639a4011e20b,11/8/18
+C. briggsae,ECA1162,ECA,21.3426,-157.822131,Wild forest,Fruit,22.3,23.3,NA,94.8,https://web.fulcrumapp.com/photos/view?photos=f170f553-d58c-4d31-ab9b-eccef8604f39,11/8/18
+C. briggsae,ECA1163,ECA,21.343047,-157.823253,Wild forest,Fruit,22.8,23.3,NA,96.3,https://web.fulcrumapp.com/photos/view?photos=ac0df661-fe54-46e9-ba73-1f88a286672a,11/8/18
+C. briggsae,ECA1164,ECA,21.343047,-157.823253,Wild forest,Fruit,22.8,23.3,NA,96.3,https://web.fulcrumapp.com/photos/view?photos=ac0df661-fe54-46e9-ba73-1f88a286672a,11/8/18
+C. briggsae,ECA1165,ECA,21.343047,-157.823253,Wild forest,Fruit,22.8,23.3,NA,96.3,https://web.fulcrumapp.com/photos/view?photos=ac0df661-fe54-46e9-ba73-1f88a286672a,11/8/18
+C. briggsae,ECA1166,ECA,21.400847,-157.888639,Wild forest,Leaf litter,24,26,63,83,NA,11/9/18
+C. briggsae,ECA1167,ECA,21.400847,-157.888639,Wild forest,Leaf litter,24,26,63,83,NA,11/9/18
+C. briggsae,ECA1168,ECA,21.400847,-157.888639,Wild forest,Leaf litter,24,26,63,83,NA,11/9/18
+C. briggsae,ECA1169,ECA,21.400847,-157.888639,Wild forest,Leaf litter,24,26,63,83,NA,11/9/18
+C. briggsae,ECA1170,ECA,21.400847,-157.888639,Wild forest,Leaf litter,24,26,63,83,NA,11/9/18
+C. briggsae,ECA1183,ECA,19.120506,-155.820061,Wild forest,Fruit,21.9,26,NA,72.8,https://web.fulcrumapp.com/photos/view?photos=1722d75a-6222-471e-8f12-90f159f09404,11/15/18
+C. briggsae,ECA1177,ECA,20.040281,-155.441944,Wild forest,Fruit,20.9,23.3,NA,85.3,https://web.fulcrumapp.com/photos/view?photos=8926a8e6-ff0b-40fc-af4e-7c9f353c6ab7,11/16/18
+C. briggsae,ECA1178,ECA,20.040281,-155.441944,Wild forest,Fruit,20.9,23.3,NA,85.3,https://web.fulcrumapp.com/photos/view?photos=8926a8e6-ff0b-40fc-af4e-7c9f353c6ab7,11/16/18
+C. briggsae,ECA1179,ECA,20.040281,-155.441944,Wild forest,Fruit,20.9,23.3,NA,85.3,https://web.fulcrumapp.com/photos/view?photos=8926a8e6-ff0b-40fc-af4e-7c9f353c6ab7,11/16/18
+C. briggsae,ECA1180,ECA,20.040281,-155.441944,Wild forest,Fruit,20.9,23.3,NA,85.3,https://web.fulcrumapp.com/photos/view?photos=8926a8e6-ff0b-40fc-af4e-7c9f353c6ab7,11/16/18
+C. briggsae,ECA1181,ECA,20.040281,-155.441944,Wild forest,Fruit,20.9,23.3,NA,85.3,https://web.fulcrumapp.com/photos/view?photos=8926a8e6-ff0b-40fc-af4e-7c9f353c6ab7,11/16/18
+C. briggsae,ECA1171,ECA,20.040306,-155.441989,Wild forest,Fruit,22.2,23.3,NA,84.1,https://web.fulcrumapp.com/photos/view?photos=67ce810c-fd6f-424e-829c-42f015c8f882,11/18/18
+C. briggsae,ECA1172,ECA,20.040306,-155.441989,Wild forest,Fruit,22.2,23.3,NA,84.1,https://web.fulcrumapp.com/photos/view?photos=67ce810c-fd6f-424e-829c-42f015c8f882,11/18/18
+C. briggsae,ECA1173,ECA,20.040306,-155.441989,Wild forest,Fruit,22.2,23.3,NA,84.1,https://web.fulcrumapp.com/photos/view?photos=67ce810c-fd6f-424e-829c-42f015c8f882,11/18/18
+C. briggsae,ECA1174,ECA,20.040306,-155.441989,Wild forest,Fruit,22.2,23.3,NA,84.1,https://web.fulcrumapp.com/photos/view?photos=67ce810c-fd6f-424e-829c-42f015c8f882,11/18/18
+C. briggsae,ECA1175,ECA,20.040306,-155.441989,Wild forest,Fruit,22.2,23.3,NA,84.1,https://web.fulcrumapp.com/photos/view?photos=67ce810c-fd6f-424e-829c-42f015c8f882,11/18/18
+C. briggsae,ECA1176,ECA,20.040306,-155.441989,Wild forest,Fruit,22.2,23.3,NA,84.1,https://web.fulcrumapp.com/photos/view?photos=67ce810c-fd6f-424e-829c-42f015c8f882,11/18/18
+C. briggsae,ECA1182,ECA,20.038611,-155.438067,Wild forest,Leaf litter,21.2,24.7,65.5,77.2,https://web.fulcrumapp.com/photos/view?photos=95453475-3c57-4559-9d09-2aed49b83e4e,11/19/18
+C. elegans,ECA339,JU,44.8358,0.4948,Rural garden,Soil,NA,NA,NA,NA,NA,1/1/49
+C. elegans,ECA253,CGC,51.45,-2.59,Urban garden,Compost,NA,NA,NA,NA,NA,1/1/51
+C. elegans,ECA254,CFB,51.45,-2.59,Urban garden,Compost,NA,NA,NA,NA,NA,1/1/51
+C. elegans,ECA255,CFB,51.45,-2.59,Urban garden,Compost,NA,NA,NA,NA,NA,1/1/51
+C. elegans,ECA257,WN,51.45,-2.59,Urban garden,Compost,NA,NA,NA,NA,NA,1/1/51
+C. elegans,ECA260,WN,21.33,-157.86,Rural garden,Fruit,NA,NA,NA,NA,NA,8/1/72
+C. elegans,ECA249,CB,34.096,-117.719,NA,Rotting fungus,NA,NA,NA,NA,NA,11/1/72
+C. elegans,ECA250,CB,34.096,-117.719,NA,Rotting fungus,NA,NA,NA,NA,NA,11/1/72
+C. elegans,ECA251,CGC,34.1,-118.1,Urban garden,Flower,NA,NA,NA,NA,NA,6/1/73
+C. elegans,ECA252,CB,34.1,-118.1,Urban garden,Flower,NA,NA,NA,NA,NA,6/1/73
+C. elegans,ECA245,CGC,34.171,-118.131,Urban garden,Vegetable,NA,NA,NA,NA,NA,5/1/74
+C. elegans,ECA246,CB,34.189,-118.131,Urban garden,Vegetable,NA,NA,NA,NA,NA,5/1/74
+C. elegans,ECA247,CGC,37.43,-122.13,Urban garden,Compost,NA,NA,NA,NA,NA,1/1/82
+C. elegans,ECA248,CB,37.44,-122.14,Urban garden,Compost,NA,NA,NA,NA,NA,1/1/82
+C. elegans,ECA258,CFB,NA,NA,NA,Isopod,NA,NA,NA,NA,NA,11/28/98
+C. elegans,ECA259,CGC,NA,NA,NA,Isopod,NA,NA,NA,NA,NA,11/28/98
+C. elegans,ECA551,JU,44.42,4.4,Rural garden,Snail,NA,NA,NA,NA,NA,9/8/02
+C. elegans,ECA571,VX,-1.05,36.39,Agricultural land,Compost,NA,NA,NA,NA,NA,5/17/06
+C. elegans,ECA572,CB,-1.05,36.39,Agricultural land,Compost,NA,NA,NA,NA,NA,5/17/06
+C. elegans,ECA589,JU,47.2199,0.04619,Agricultural land,Compost,NA,NA,NA,NA,NA,3/1/08
+C. elegans,ECA615,JU,48.7015,2.1725,Rural garden,Rotting fruit,NA,NA,NA,NA,NA,9/8/08
+C. elegans,ECA616,JU,48.7015,2.1725,Rural garden,Rotting fruit,NA,NA,NA,NA,NA,9/9/08
+C. elegans,ECA36,ECA,-36.893333,174.745529,Urban garden,Leaf litter,NA,NA,NA,NA,NA,7/27/13
+C. elegans,ECA552,JU,43.8658,5.0628,NA,Rotting fruit,NA,NA,NA,NA,NA,11/17/13
+C. elegans,ECA189,ECA,19.423889,-155.2225,Forest,Soil,NA,NA,NA,NA,NA,7/9/14
+C. elegans,ECA190,ECA,19.423889,-155.2225,Forest,Soil,NA,NA,NA,NA,NA,7/9/14
+C. elegans,ECA191,ECA,19.424167,-155.221944,Forest,Rotting flower,NA,NA,NA,NA,NA,7/9/14
+C. elegans,ECA192,ECA,19.424444,-155.221944,Forest,Compost,NA,NA,NA,NA,NA,7/9/14
+C. elegans,ECA193,ECA,19.424444,-155.221944,Forest,Compost,NA,NA,NA,NA,NA,7/9/14
+C. elegans,ECA348,ECA,37.775334,-122.253889,Urban garden,Rotting fruit,NA,NA,NA,NA,NA,12/30/15
+C. elegans,ECA347,ECA,19.438889,-155.303611,Forest,Leaf litter,NA,NA,NA,NA,ECA347.jpg,2/7/16
+C. elegans,ECA349,ECA,32.765758,-117.236741,Urban garden,Rotting nut,NA,NA,NA,NA,NA,2/9/16
+C. elegans,ECA350,ECA,32.765353,-117.235442,Urban garden,Slug,NA,NA,NA,NA,NA,2/9/16
+C. elegans,ECA363,ECA,20.723611,-156.304444,Forest,Leaf litter,NA,NA,NA,NA,ECA363.jpg,2/19/16
+C. elegans,ECA369,ECA,21.175556,-157.006389,Forest,Leaf litter,NA,NA,NA,NA,ECA369.jpg,2/20/16
+C. elegans,ECA372,ECA,22.121667,-159.664444,Forest,Leaf litter,NA,NA,NA,NA,ECA372.jpg,2/27/16
+C. elegans,ECA393,ECA,19.449831,-155.235493,Rural garden,Compost,NA,NA,NA,NA,NA,5/17/16
+C. elegans,ECA394,ECA,19.449831,-155.235493,Rural garden,Compost,NA,NA,NA,NA,NA,5/17/16
+C. elegans,ECA395,ECA,19.449831,-155.235493,Rural garden,Soil,NA,NA,NA,NA,NA,5/17/16
+C. elegans,ECA396,ECA,19.449831,-155.235493,Rural garden,Rotting fruit,NA,NA,NA,NA,NA,5/17/16
+C. elegans,ECA397,ECA,19.449831,-155.235493,Rural garden,Rotting fruit,NA,NA,NA,NA,NA,5/17/16
+C. elegans,ECA398,ECA,19.449831,-155.235493,Rural garden,Rotting fruit,NA,NA,NA,NA,NA,5/17/16
+C. elegans,ECA399,ECA,19.449831,-155.235493,Rural garden,Rotting fruit,NA,NA,NA,NA,NA,5/17/16
+C. elegans,ECA592,ECA,34.417128,-119.640915,Rural garden,Nut,NA,NA,NA,NA,NA,3/7/17
+C. elegans,ECA593,ECA,34.418632,-119.642159,Rural garden,Flower,NA,NA,NA,NA,NA,3/7/17
+C. elegans,ECA594,ECA,34.417532,-119.640673,Rural garden,Nut,NA,NA,NA,NA,NA,3/7/17
+C. elegans,ECA640,ECA,34.065378,-118.441156,Urban garden,Rotting fruit,NA,NA,NA,NA,ECA640.jpg,6/22/17
+C. elegans,ECA701,ECA,22.123283,-159.656428,Forest,Rotting flower,19.2,21.9,NA,79.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-1175.jpg,8/11/17
+C. elegans,ECA702,ECA,22.123283,-159.656428,Forest,Rotting flower,19.2,21.9,NA,79.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-1175.jpg,8/11/17
+C. elegans,ECA734,ECA,21.13927631,-156.9740559,Forest,Rotting flower,22.4,24.7,66.5,70.6,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0736.jpg,8/12/17
+C. elegans,ECA735,ECA,21.13927631,-156.9740559,Forest,Rotting flower,22.4,24.7,66.5,70.6,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0736.jpg,8/12/17
+C. elegans,ECA736,ECA,21.13927631,-156.9740559,Forest,Rotting flower,22.4,24.7,66.5,70.6,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0736.jpg,8/12/17
+C. elegans,ECA737,ECA,21.13927631,-156.9740559,Forest,Rotting flower,22.4,24.7,66.5,70.6,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0736.jpg,8/12/17
+C. elegans,ECA738,ECA,21.13927631,-156.9740559,Forest,Rotting flower,22.4,24.7,66.5,70.6,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0736.jpg,8/12/17
+C. elegans,ECA703,ECA,20.038831,-155.438922,Forest,Leaf litter,18.7,23.3,65,75,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3133.jpg,8/13/17
+C. elegans,ECA704,ECA,20.039783,-155.441517,Forest,Fruit,21.2,23.3,NA,75.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3164.jpg,8/13/17
+C. elegans,ECA705,ECA,20.038831,-155.438922,Forest,Leaf litter,18.7,23.3,65,75,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3133.jpg,8/13/17
+C. elegans,ECA706,ECA,20.038831,-155.438922,Forest,Leaf litter,18.7,23.3,65,75,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3133.jpg,8/13/17
+C. elegans,ECA707,ECA,20.039783,-155.441517,Forest,Fruit,21.2,23.3,NA,75.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3164.jpg,8/13/17
+C. elegans,ECA708,ECA,20.039783,-155.441517,Forest,Fruit,21.2,23.3,NA,75.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3164.jpg,8/13/17
+C. elegans,ECA709,ECA,20.039783,-155.441517,Forest,Fruit,21.2,23.3,NA,75.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3164.jpg,8/13/17
+C. elegans,ECA710,ECA,20.039656,-155.438103,Forest,Leaf litter,20.5,21.9,64,75.5,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3178.jpg,8/13/17
+C. elegans,ECA716,ECA,20.039844,-155.441408,Forest,Fruit,22.2,23.3,NA,77.4,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3160.jpg,8/13/17
+C. elegans,ECA717,ECA,20.039844,-155.441408,Forest,Fruit,22.2,23.3,NA,77.4,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3160.jpg,8/13/17
+C. elegans,ECA718,ECA,20.039844,-155.441408,Forest,Fruit,22.2,23.3,NA,77.4,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3160.jpg,8/13/17
+C. elegans,ECA719,ECA,20.039858,-155.441419,Forest,Fruit,19.6,22.6,NA,81.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3114.jpg,8/13/17
+C. elegans,ECA720,ECA,20.039858,-155.441419,Forest,Fruit,19.6,22.6,NA,81.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3114.jpg,8/13/17
+C. elegans,ECA721,ECA,20.039858,-155.441419,Forest,Fruit,19.6,22.6,NA,81.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3114.jpg,8/13/17
+C. elegans,ECA822,ECA,20.038831,-155.438922,Forest,Leaf litter,18.7,23.3,65,75,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3133.jpg,8/13/17
+C. elegans,ECA711,ECA,19.423864,-155.222478,Rural garden,Leaf litter,15.4,18.5,71.5,94,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3097.jpg,8/14/17
+C. elegans,ECA712,ECA,19.423864,-155.222478,Rural garden,Leaf litter,15.4,18.5,71.5,94,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3097.jpg,8/14/17
+C. elegans,ECA713,ECA,19.423864,-155.222478,Rural garden,Leaf litter,15.4,18.5,71.5,94,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3097.jpg,8/14/17
+C. elegans,ECA714,ECA,19.423864,-155.222478,Rural garden,Leaf litter,15.4,18.5,71.5,94,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3097.jpg,8/14/17
+C. elegans,ECA715,ECA,19.423864,-155.222478,Rural garden,Leaf litter,15.4,18.5,71.5,94,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3097.jpg,8/14/17
+C. elegans,ECA722,ECA,19.423975,-155.222625,Rural garden,Leaf litter,14.7,18.5,70,94,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3085.jpg,8/14/17
+C. elegans,ECA723,ECA,19.424272,-155.221661,Rural garden,Leaf litter,18,20.5,70.5,82,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2805.jpg,8/14/17
+C. elegans,ECA724,ECA,19.439144,-155.303825,Forest,Leaf litter,18,23.3,64,68,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3007.jpg,8/14/17
+C. elegans,ECA725,ECA,19.439144,-155.303825,Forest,Leaf litter,18,23.3,64,68,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3007.jpg,8/14/17
+C. elegans,ECA726,ECA,19.439144,-155.303825,Forest,Leaf litter,18,23.3,64,68,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3007.jpg,8/14/17
+C. elegans,ECA727,ECA,19.439144,-155.303825,Forest,Leaf litter,18,23.3,64,68,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3007.jpg,8/14/17
+C. elegans,ECA728,ECA,19.424272,-155.221661,Rural garden,Leaf litter,18,20.5,70.5,82,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2805.jpg,8/14/17
+C. elegans,ECA729,ECA,19.424272,-155.221661,Rural garden,Leaf litter,18,20.5,70.5,82,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2805.jpg,8/14/17
+C. elegans,ECA730,ECA,19.423869,-155.222483,Rural garden,Leaf litter,15,18.4,NA,94,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3058.jpg,8/14/17
+C. elegans,ECA740,ECA,20.670022,-156.339189,Forest,Fruit,16.9,19.2,73.5,80.4,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-1142.jpg,8/14/17
+C. elegans,ECA741,ECA,20.6762,-156.338322,Forest,Fruit,18.2,18.5,68.5,90.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-1329.jpg,8/14/17
+C. elegans,ECA731,ECA,19.115886,-155.818386,Forest,Rotting Wood,20.4,25.4,42,76.3,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3266.jpg,8/15/17
+C. elegans,ECA732,ECA,19.115403,-155.81845,Forest,Leaf litter,23.3,26,62,75.5,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3264.jpg,8/15/17
+C. elegans,ECA733,ECA,19.115886,-155.818386,Forest,Rotting Wood,20.4,25.4,42,76.3,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3266.jpg,8/15/17
+C. elegans,ECA744,ECA,19.719231,-155.949572,Forest,Leaf litter,17.5,23.3,66.5,80,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2677.jpg,8/15/17
+C. elegans,ECA745,ECA,19.700464,-155.955839,Forest,Leaf litter,20.6,21.9,36,82.6,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2865.jpg,8/15/17
+C. elegans,ECA746,ECA,19.115292,-155.819336,Forest,Leaf litter,18.5,23.3,53,85.6,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3270.jpg,8/15/17
+C. elegans,ECA747,ECA,19.700464,-155.955839,Forest,Leaf litter,20.6,21.9,36,82.6,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2865.jpg,8/15/17
+C. elegans,ECA742,ECA,20.80569,-156.2781,Forest,Leaf litter,18.2,22.9,30,67.3,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-1489.jpg,8/16/17
+C. elegans,ECA743,ECA,20.741871,-156.32317,Urban garden,Rotting flower,20.7,24.9,25.5,65.3,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-1480.jpg,8/16/17
+C. elegans,ECA739,ECA,20.039869,-155.441619,Forest,Leaf litter,21.2,22.6,67.5,84.2,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2828.jpg,8/17/17
+C. elegans,ECA748,ECA,20.039847,-155.441492,Forest,Fruit,20.1,22.6,NA,81.8,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2880.jpg,8/17/17
+C. elegans,ECA749,ECA,20.039875,-155.441608,Forest,Rotting flower,20.1,22.6,NA,80.5,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2836.jpg,8/17/17
+C. elegans,ECA750,ECA,20.039847,-155.441492,Forest,Fruit,20.1,22.6,NA,81.8,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2880.jpg,8/17/17
+C. elegans,ECA751,ECA,20.039847,-155.441492,Forest,Fruit,20.1,22.6,NA,81.8,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2880.jpg,8/17/17
+C. elegans,ECA752,ECA,20.039847,-155.441492,Forest,Fruit,20.1,22.6,NA,81.8,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2880.jpg,8/17/17
+C. elegans,ECA753,ECA,20.039847,-155.441492,Forest,Fruit,20.1,22.6,NA,81.8,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2880.jpg,8/17/17
+C. elegans,ECA754,ECA,20.039869,-155.441464,Forest,Leaf litter,21.6,21.9,68.5,85.7,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3189.jpg,8/17/17
+C. elegans,ECA755,ECA,20.039869,-155.441464,Forest,Leaf litter,21.6,21.9,68.5,85.7,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3189.jpg,8/17/17
+C. elegans,ECA756,ECA,20.039822,-155.441533,Forest,Fruit,20.2,22.6,NA,81.3,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2830.jpg,8/17/17
+C. elegans,ECA757,ECA,20.039822,-155.441533,Forest,Fruit,20.2,22.6,NA,81.3,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2830.jpg,8/17/17
+C. elegans,ECA758,ECA,20.039886,-155.441531,Forest,Fruit,19.4,23.3,NA,76.5,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3197.jpg,8/17/17
+C. elegans,ECA759,ECA,20.039886,-155.441531,Forest,Fruit,19.4,23.3,NA,76.5,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3197.jpg,8/17/17
+C. elegans,ECA760,ECA,20.039869,-155.441619,Forest,Leaf litter,21.2,22.6,67.5,84.2,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2828.jpg,8/17/17
+C. elegans,ECA761,ECA,20.039847,-155.441492,Forest,Fruit,20.1,22.6,NA,81.8,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2880.jpg,8/17/17
+C. elegans,ECA762,ECA,20.039822,-155.441533,Forest,Fruit,20.2,22.6,NA,81.3,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2830.jpg,8/17/17
+C. elegans,ECA763,ECA,20.039878,-155.441608,Forest,Leaf litter,20.7,22.6,70,82.7,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2840.jpg,8/17/17
+C. elegans,ECA764,ECA,20.039878,-155.441608,Forest,Leaf litter,20.7,22.6,70,82.7,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2840.jpg,8/17/17
+C. elegans,ECA765,ECA,20.039878,-155.441608,Forest,Leaf litter,20.7,22.6,70,82.7,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2840.jpg,8/17/17
+C. elegans,ECA766,ECA,20.039878,-155.441608,Forest,Leaf litter,20.7,22.6,70,82.7,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2840.jpg,8/17/17
+C. elegans,ECA767,ECA,20.039878,-155.441608,Forest,Leaf litter,20.7,22.6,70,82.7,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2840.jpg,8/17/17
+C. elegans,ECA768,ECA,20.039914,-155.441556,Forest,Leaf litter,21.9,21.9,69,87.6,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2856.jpg,8/17/17
+C. elegans,ECA769,ECA,20.039869,-155.441619,Forest,Leaf litter,21.2,22.6,67.5,84.2,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2828.jpg,8/17/17
+C. elegans,ECA770,ECA,20.039869,-155.441531,Forest,Fruit,19.4,24,NA,78.2,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3201.jpg,8/17/17
+C. elegans,ECA771,ECA,20.039864,-155.441644,Forest,Leaf litter,20.5,22.6,67,84.2,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2879.jpg,8/17/17
+C. elegans,ECA772,ECA,20.039908,-155.441503,Forest,Fruit,21.5,NA,NA,NA,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3155.jpg,8/17/17
+C. elegans,ECA773,ECA,20.039864,-155.441644,Forest,Leaf litter,20.5,22.6,67,84.2,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2879.jpg,8/17/17
+C. elegans,ECA774,ECA,20.039869,-155.441531,Forest,Fruit,19.4,24,NA,78.2,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3201.jpg,8/17/17
+C. elegans,ECA775,ECA,20.039869,-155.441531,Forest,Fruit,19.4,24,NA,78.2,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3201.jpg,8/17/17
+C. elegans,ECA776,ECA,20.039869,-155.441531,Forest,Fruit,19.4,24,NA,78.2,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3201.jpg,8/17/17
+C. elegans,ECA777,ECA,20.039908,-155.441503,Forest,Fruit,21.5,NA,NA,NA,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3155.jpg,8/17/17
+C. elegans,ECA778,ECA,20.039908,-155.441503,Forest,Fruit,21.5,NA,NA,NA,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3155.jpg,8/17/17
+C. elegans,ECA779,ECA,20.039858,-155.441608,Forest,Fruit,20.6,22.6,NA,83.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2824.jpg,8/17/17
+C. elegans,ECA780,ECA,20.039858,-155.441608,Forest,Fruit,20.6,22.6,NA,83.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2824.jpg,8/17/17
+C. elegans,ECA781,ECA,20.039858,-155.441608,Forest,Fruit,20.6,22.6,NA,83.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2824.jpg,8/17/17
+C. elegans,ECA782,ECA,20.039875,-155.441608,Forest,Rotting flower,20.1,22.6,NA,80.5,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2836.jpg,8/17/17
+C. elegans,ECA783,ECA,20.039783,-155.441481,Forest,Fruit,19,23.3,NA,77.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3205.jpg,8/17/17
+C. elegans,ECA784,ECA,20.039783,-155.441481,Forest,Fruit,19,23.3,NA,77.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3205.jpg,8/17/17
+C. elegans,ECA785,ECA,20.039783,-155.441481,Forest,Fruit,19,23.3,NA,77.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3205.jpg,8/17/17
+C. elegans,ECA786,ECA,20.039875,-155.441608,Forest,Rotting flower,20.1,22.6,NA,80.5,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2836.jpg,8/17/17
+C. elegans,ECA787,ECA,20.039783,-155.441481,Forest,Fruit,19,23.3,NA,77.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3205.jpg,8/17/17
+C. elegans,ECA807,ECA,20.039869,-155.441531,Forest,Fruit,19.4,24,NA,78.2,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3201.jpg,8/17/17
+C. elegans,ECA808,ECA,20.039858,-155.441608,Forest,Fruit,20.6,22.6,NA,83.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-2824.jpg,8/17/17
+C. elegans,ECA809,ECA,20.039783,-155.441481,Forest,Fruit,19,23.3,NA,77.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3205.jpg,8/17/17
+C. elegans,ECA810,ECA,20.039897,-155.441531,Forest,Leaf litter,19.8,22.6,67.5,81.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3151.jpg,8/17/17
+C. elegans,ECA811,ECA,20.039897,-155.441531,Forest,Leaf litter,19.8,22.6,67.5,81.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3151.jpg,8/17/17
+C. elegans,ECA812,ECA,20.039917,-155.441542,Forest,Leaf litter,19.8,22.6,68.5,80.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3143.jpg,8/17/17
+C. elegans,ECA813,ECA,20.039917,-155.441542,Forest,Leaf litter,19.8,22.6,68.5,80.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3143.jpg,8/17/17
+C. elegans,ECA922,ECA,21.290067,-157.707918,Urban garden,Rotting fungus,NA,NA,NA,NA,NA,12/1/17
+C. elegans,ECA923,ECA,21.290067,-157.707918,Urban garden,Rotting fungus,NA,NA,NA,NA,NA,12/1/17
+C. elegans,ECA924,ECA,21.290067,-157.707918,Urban garden,Rotting fungus,NA,NA,NA,NA,NA,12/1/17
+C. elegans,ECA925,ECA,21.290067,-157.707918,Urban garden,Rotting fungus,NA,NA,NA,NA,NA,12/1/17
+C. elegans,ECA926,ECA,21.290067,-157.707918,Urban garden,Rotting fungus,NA,NA,NA,NA,NA,12/1/17
+C. elegans,ECA927,ECA,21.290067,-157.707918,Urban garden,Rotting fungus,NA,NA,NA,NA,NA,12/1/17
+C. elegans,ECA928,ECA,21.290067,-157.707918,Urban garden,Rotting fungus,NA,NA,NA,NA,NA,12/1/17
+C. elegans,ECA930,ZAS,31.778363,35.197931,Urban garden,Rotting fruit,NA,NA,NA,NA,NA,12/14/17
+C. elegans,ECA1072,ECA,-34.8434,-56.1199,Rural garden,Rotting fruit,12,NA,NA,NA,"Plate8back.jpg, Plate8front.jpg",5/19/18
+C. elegans,ECA1073,ECA,-34.8434,-56.1199,Rural garden,Rotting fruit,12,NA,NA,NA,"Plate9back.jpg, Plate9front.jpg",5/19/18
+C. elegans,ECA1069,ECA,-34.89411879,-56.15794301,Rural garden,Rotting fruit,17,NA,NA,NA,"Plate5back.jpg, Plate5front.jpg",5/20/18
+C. elegans,ECA1070,ECA,-34.8934668,-56.15637202,Rural garden,Rotting fruit,17,NA,NA,NA,"Plate6back.jpg, Plate6front.jpg",5/20/18
+C. elegans,ECA1071,ECA,-34.8934668,-56.15637202,Rural garden,Rotting fruit,17,NA,NA,NA,"Plate7back.jpg, Plate7front.jpg",5/20/18
+C. elegans,ECA1074,ECA,-34.89623486,-56.15625241,Rural garden,Rotting fruit,14,NA,NA,NA,"Plate11back.jpg, Plate11front.jpg",5/22/18
+C. elegans,ECA1234,ECA,19.441803,-155.304619,Wild forest,Flower,17.1,19.2,NA,84.5,https://web.fulcrumapp.com/photos/view?photos=1f0c72b9-f66f-47c6-9e42-6e286c432997,11/10/18
+C. elegans,ECA1235,ECA,19.441803,-155.304619,Wild forest,Flower,17.1,19.2,NA,84.5,https://web.fulcrumapp.com/photos/view?photos=1f0c72b9-f66f-47c6-9e42-6e286c432997,11/10/18
+C. elegans,ECA1236,ECA,19.441803,-155.304619,Wild forest,Flower,17.1,19.2,NA,84.5,https://web.fulcrumapp.com/photos/view?photos=1f0c72b9-f66f-47c6-9e42-6e286c432997,11/10/18
+C. elegans,ECA1237,ECA,19.441803,-155.304619,Wild forest,Flower,17.1,19.2,NA,84.5,https://web.fulcrumapp.com/photos/view?photos=1f0c72b9-f66f-47c6-9e42-6e286c432997,11/10/18
+C. elegans,ECA1184,ECA,19.440064,-155.302017,Wild forest,Flower,18.3,20.2,NA,74.5,https://web.fulcrumapp.com/photos/view?photos=d5748a75-c4a5-40dd-9375-7b22765978e8,11/11/18
+C. elegans,ECA1185,ECA,19.440064,-155.302017,Wild forest,Flower,18.3,20.2,NA,74.5,https://web.fulcrumapp.com/photos/view?photos=d5748a75-c4a5-40dd-9375-7b22765978e8,11/11/18
+C. elegans,ECA1194,ECA,19.439611,-155.304014,Wild forest,Leaf litter,17.9,17.8,69,89.2,NA,11/11/18
+C. elegans,ECA1195,ECA,19.439611,-155.304014,Wild forest,Leaf litter,17.9,17.8,69,89.2,NA,11/11/18
+C. elegans,ECA1186,ECA,19.114569,-155.820194,Wild forest,Leaf litter,20.1,21.2,62,87.5,NA,11/12/18
+C. elegans,ECA1187,ECA,19.441892,-155.301294,Wild forest,Leaf litter,17.5,19.2,57,82.3,https://web.fulcrumapp.com/photos/view?photos=d51cb752-0aa4-48d7-965d-6d4899cdecbc,11/12/18
+C. elegans,ECA1188,ECA,19.441892,-155.301294,Wild forest,Leaf litter,17.5,19.2,57,82.3,https://web.fulcrumapp.com/photos/view?photos=d51cb752-0aa4-48d7-965d-6d4899cdecbc,11/12/18
+C. elegans,ECA1189,ECA,19.441892,-155.301294,Wild forest,Leaf litter,17.5,19.2,57,82.3,https://web.fulcrumapp.com/photos/view?photos=d51cb752-0aa4-48d7-965d-6d4899cdecbc,11/12/18
+C. elegans,ECA1190,ECA,19.441892,-155.301294,Wild forest,Leaf litter,17.5,19.2,57,82.3,https://web.fulcrumapp.com/photos/view?photos=d51cb752-0aa4-48d7-965d-6d4899cdecbc,11/12/18
+C. elegans,ECA1191,ECA,19.442856,-155.301722,Wild forest,Leaf litter,16.6,19.2,67.5,86.7,https://web.fulcrumapp.com/photos/view?photos=b526ef0a-6d54-47af-8e30-e2f350c78fd2,11/12/18
+C. elegans,ECA1192,ECA,19.439969,-155.305067,Wild forest,Leaf litter,17.8,19.2,46,83.3,NA,11/12/18
+C. elegans,ECA1193,ECA,19.439969,-155.305067,Wild forest,Leaf litter,17.8,19.2,46,83.3,NA,11/12/18
+C. elegans,ECA1196,ECA,19.442856,-155.301722,Wild forest,Leaf litter,16.6,19.2,67.5,86.7,https://web.fulcrumapp.com/photos/view?photos=b526ef0a-6d54-47af-8e30-e2f350c78fd2,11/12/18
+C. elegans,ECA1197,ECA,19.441142,-155.304914,Wild forest,Leaf litter,17.8,19.2,66,78.9,NA,11/12/18
+C. elegans,ECA1198,ECA,19.441142,-155.304914,Wild forest,Leaf litter,17.8,19.2,66,78.9,NA,11/12/18
+C. elegans,ECA1199,ECA,19.438994,-155.303422,Wild forest,Leaf litter,16.8,17.1,65.5,90.1,NA,11/12/18
+C. elegans,ECA1238,ECA,19.438925,-155.303367,Wild forest,Leaf litter,17.5,17.1,70,89.6,https://web.fulcrumapp.com/photos/view?photos=a4eb5c43-d245-4ed8-b91b-b19d133dda36,11/12/18
+C. elegans,ECA1239,ECA,19.438994,-155.303422,Wild forest,Leaf litter,16.8,17.1,65.5,90.1,NA,11/12/18
+C. elegans,ECA1242,ECA,19.438603,-155.303339,Wild forest,Leaf litter,17.5,17.8,64,84.7,https://web.fulcrumapp.com/photos/view?photos=20f5146d-201d-4d1b-9e47-c0e679a2a912,11/12/18
+C. elegans,ECA1250,ECA,19.438661,-155.303442,Wild forest,Leaf litter,17.1,17.8,70,87.2,https://web.fulcrumapp.com/photos/view?photos=66953e5f-9720-44cc-a7ef-960dcb11f468,11/12/18
+C. elegans,ECA1251,ECA,19.438661,-155.303442,Wild forest,Leaf litter,17.1,17.8,70,87.2,https://web.fulcrumapp.com/photos/view?photos=66953e5f-9720-44cc-a7ef-960dcb11f468,11/12/18
+C. elegans,ECA1252,ECA,19.438925,-155.303367,Wild forest,Leaf litter,17.5,17.1,70,89.6,https://web.fulcrumapp.com/photos/view?photos=a4eb5c43-d245-4ed8-b91b-b19d133dda36,11/12/18
+C. elegans,ECA1253,ECA,19.438925,-155.303367,Wild forest,Leaf litter,17.5,17.1,70,89.6,https://web.fulcrumapp.com/photos/view?photos=a4eb5c43-d245-4ed8-b91b-b19d133dda36,11/12/18
+C. elegans,ECA1229,ECA,19.105403,-155.697525,Wild forest,Leaf litter,22.5,26,64,59.9,NA,11/13/18
+C. elegans,ECA1231,ECA,19.105403,-155.697525,Wild forest,Leaf litter,22.5,26,64,59.9,NA,11/13/18
+C. elegans,ECA1233,ECA,19.105403,-155.697525,Wild forest,Leaf litter,22.5,26,64,59.9,NA,11/13/18
+C. elegans,ECA1240,ECA,19.441797,-155.304625,Wild forest,Leaf litter,17.1,19.2,70,84.3,https://web.fulcrumapp.com/photos/view?photos=78c21f9e-e122-487d-bf0b-efec83b3a959,11/13/18
+C. elegans,ECA1241,ECA,19.105403,-155.697525,Wild forest,Leaf litter,22.5,26,64,59.9,NA,11/13/18
+C. elegans,ECA1243,ECA,19.120139,-155.819614,Wild forest,Nut,21,24.7,NA,75.7,https://web.fulcrumapp.com/photos/view?photos=c92572ae-86cc-4c19-9ae0-0b88d5a77bc8,11/15/18
+C. elegans,ECA1259,ECA,19.120686,-155.819683,Wild forest,Fruit,20.6,24,NA,76.6,https://web.fulcrumapp.com/photos/view?photos=f7ff43d8-6fb2-4fd6-9d0b-d26abafaa2e2,11/15/18
+C. elegans,ECA1260,ECA,19.120686,-155.819683,Wild forest,Fruit,20.6,24,NA,76.6,https://web.fulcrumapp.com/photos/view?photos=f7ff43d8-6fb2-4fd6-9d0b-d26abafaa2e2,11/15/18
+C. elegans,ECA1265,ECA,19.115406,-155.818569,Wild forest,Leaf litter,20.2,22.6,66,84.1,https://web.fulcrumapp.com/photos/view?photos=846ac0fb-97e4-4857-be6a-46c9c4a7257f,11/15/18
+C. elegans,ECA1266,ECA,19.115406,-155.818569,Wild forest,Leaf litter,20.2,22.6,66,84.1,https://web.fulcrumapp.com/photos/view?photos=846ac0fb-97e4-4857-be6a-46c9c4a7257f,11/15/18
+C. elegans,ECA1267,ECA,19.120686,-155.819683,Wild forest,Fruit,20.6,24,NA,76.6,https://web.fulcrumapp.com/photos/view?photos=f7ff43d8-6fb2-4fd6-9d0b-d26abafaa2e2,11/15/18
+C. elegans,ECA1268,ECA,19.120686,-155.819683,Wild forest,Fruit,20.6,24,NA,76.6,https://web.fulcrumapp.com/photos/view?photos=f7ff43d8-6fb2-4fd6-9d0b-d26abafaa2e2,11/15/18
+C. elegans,ECA1269,ECA,19.120686,-155.819683,Wild forest,Fruit,20.6,24,NA,76.6,https://web.fulcrumapp.com/photos/view?photos=f7ff43d8-6fb2-4fd6-9d0b-d26abafaa2e2,11/15/18
+C. elegans,ECA1270,ECA,19.120692,-155.819656,Wild forest,Fruit,20.4,24,NA,75.4,https://web.fulcrumapp.com/photos/view?photos=60f560dd-b93c-46eb-af89-0f2478077853,11/15/18
+C. elegans,ECA1271,ECA,19.120692,-155.819656,Wild forest,Fruit,20.4,24,NA,75.4,https://web.fulcrumapp.com/photos/view?photos=60f560dd-b93c-46eb-af89-0f2478077853,11/15/18
+C. elegans,ECA1286,ECA,19.120631,-155.819753,Wild forest,Leaf litter,20.7,24,61.5,75.5,https://web.fulcrumapp.com/photos/view?photos=a0db95c3-d70c-452e-a468-1273f372ab1a,11/15/18
+C. elegans,ECA1287,ECA,19.120139,-155.819614,Wild forest,Nut,21,24.7,NA,75.7,https://web.fulcrumapp.com/photos/view?photos=c92572ae-86cc-4c19-9ae0-0b88d5a77bc8,11/15/18
+C. elegans,ECA1288,ECA,19.115289,-155.819194,Wild forest,Leaf litter,20.5,21.9,64,84.8,https://web.fulcrumapp.com/photos/view?photos=db934764-6948-4209-bfac-9b6781e0f1a9,11/15/18
+C. elegans,ECA1289,ECA,19.119419,-155.821783,Wild forest,Leaf litter,20.3,24.7,69,72.7,NA,11/15/18
+C. elegans,ECA1290,ECA,19.120631,-155.819753,Wild forest,Leaf litter,20.7,24,61.5,75.5,https://web.fulcrumapp.com/photos/view?photos=a0db95c3-d70c-452e-a468-1273f372ab1a,11/15/18
+C. elegans,ECA1244,ECA,20.039703,-155.441433,Wild forest,Fruit,20.9,23.3,NA,85.8,https://web.fulcrumapp.com/photos/view?photos=2c12b26f-cce7-4571-afe8-27f8da4f9e3c,11/16/18
+C. elegans,ECA1245,ECA,20.039703,-155.441433,Wild forest,Fruit,20.9,23.3,NA,85.8,https://web.fulcrumapp.com/photos/view?photos=2c12b26f-cce7-4571-afe8-27f8da4f9e3c,11/16/18
+C. elegans,ECA1246,ECA,19.7205,-155.947706,Wild forest,Flower,19.8,20.5,NA,90.1,https://web.fulcrumapp.com/photos/view?photos=298634dc-5df3-4525-ba65-2aae2e21f504,11/16/18
+C. elegans,ECA1247,ECA,19.7205,-155.947706,Wild forest,Flower,19.8,20.5,NA,90.1,https://web.fulcrumapp.com/photos/view?photos=298634dc-5df3-4525-ba65-2aae2e21f504,11/16/18
+C. elegans,ECA1248,ECA,19.7205,-155.947706,Wild forest,Flower,19.8,20.5,NA,90.1,https://web.fulcrumapp.com/photos/view?photos=298634dc-5df3-4525-ba65-2aae2e21f504,11/16/18
+C. elegans,ECA1249,ECA,20.041411,-155.443828,Wild forest,Fruit,21.3,24,NA,86.5,https://web.fulcrumapp.com/photos/view?photos=38120a10-0885-467f-80a2-fb521ba3a060,11/16/18
+C. elegans,ECA1254,ECA,20.041411,-155.443828,Wild forest,Fruit,21.3,24,NA,86.5,https://web.fulcrumapp.com/photos/view?photos=38120a10-0885-467f-80a2-fb521ba3a060,11/16/18
+C. elegans,ECA1255,ECA,20.041411,-155.443828,Wild forest,Fruit,21.3,24,NA,86.5,https://web.fulcrumapp.com/photos/view?photos=38120a10-0885-467f-80a2-fb521ba3a060,11/16/18
+C. elegans,ECA1256,ECA,20.041411,-155.443828,Wild forest,Fruit,21.3,24,NA,86.5,https://web.fulcrumapp.com/photos/view?photos=38120a10-0885-467f-80a2-fb521ba3a060,11/16/18
+C. elegans,ECA1257,ECA,20.041411,-155.443828,Wild forest,Fruit,21.3,24,NA,86.5,https://web.fulcrumapp.com/photos/view?photos=38120a10-0885-467f-80a2-fb521ba3a060,11/16/18
+C. elegans,ECA1258,ECA,20.041411,-155.443828,Wild forest,Fruit,21.3,24,NA,86.5,https://web.fulcrumapp.com/photos/view?photos=38120a10-0885-467f-80a2-fb521ba3a060,11/16/18
+C. elegans,ECA1261,ECA,19.115236,-155.819108,Wild forest,Leaf litter,20.4,21.9,67,85,https://web.fulcrumapp.com/photos/view?photos=ec3e8677-4529-462c-8f3f-329a74a8d71e,11/16/18
+C. elegans,ECA1262,ECA,19.720131,-155.948586,Wild forest,Fruit,20.2,21.2,NA,88.7,https://web.fulcrumapp.com/photos/view?photos=61fd02fd-4645-4918-b511-ab6cac47cf2c,11/16/18
+C. elegans,ECA1263,ECA,19.720131,-155.948586,Wild forest,Fruit,20.2,21.2,NA,88.7,https://web.fulcrumapp.com/photos/view?photos=61fd02fd-4645-4918-b511-ab6cac47cf2c,11/16/18
+C. elegans,ECA1264,ECA,19.720131,-155.948586,Wild forest,Fruit,20.2,21.2,NA,88.7,https://web.fulcrumapp.com/photos/view?photos=61fd02fd-4645-4918-b511-ab6cac47cf2c,11/16/18
+C. elegans,ECA1272,ECA,19.7205,-155.947706,Wild forest,Flower,19.8,20.5,NA,90.1,https://web.fulcrumapp.com/photos/view?photos=298634dc-5df3-4525-ba65-2aae2e21f504,11/16/18
+C. elegans,ECA1273,ECA,19.720131,-155.948586,Wild forest,Fruit,20.2,21.2,NA,88.7,https://web.fulcrumapp.com/photos/view?photos=61fd02fd-4645-4918-b511-ab6cac47cf2c,11/16/18
+C. elegans,ECA1274,ECA,19.7205,-155.947706,Wild forest,Flower,19.8,20.5,NA,90.1,https://web.fulcrumapp.com/photos/view?photos=298634dc-5df3-4525-ba65-2aae2e21f504,11/16/18
+C. elegans,ECA1275,ECA,19.720131,-155.948586,Wild forest,Fruit,20.2,21.2,NA,88.7,https://web.fulcrumapp.com/photos/view?photos=61fd02fd-4645-4918-b511-ab6cac47cf2c,11/16/18
+C. elegans,ECA1284,ECA,20.038594,-155.439978,Wild forest,Leaf litter,20.1,21.2,62,88.7,https://web.fulcrumapp.com/photos/view?photos=3d14a011-0a6a-4bfd-8129-33d24e6d5cb1,11/16/18
+C. elegans,ECA1285,ECA,20.038594,-155.439978,Wild forest,Leaf litter,20.1,21.2,62,88.7,https://web.fulcrumapp.com/photos/view?photos=3d14a011-0a6a-4bfd-8129-33d24e6d5cb1,11/16/18
+C. elegans,ECA1291,ECA,20.039703,-155.441433,Wild forest,Fruit,20.9,23.3,NA,85.8,https://web.fulcrumapp.com/photos/view?photos=2c12b26f-cce7-4571-afe8-27f8da4f9e3c,11/16/18
+C. elegans,ECA1292,ECA,20.038475,-155.438331,Wild forest,Leaf litter,20.5,24,59.5,78.7,https://web.fulcrumapp.com/photos/view?photos=6e0f0469-7c95-45ee-bb6d-0d96a6eb26f5,11/16/18
+C. elegans,ECA1293,ECA,19.720489,-155.947719,Wild forest,Leaf litter,19.8,20.5,68.5,91.4,https://web.fulcrumapp.com/photos/view?photos=d8bc8810-bccc-45d3-a41a-e4e94370952c,11/16/18
+C. elegans,ECA1294,ECA,19.720489,-155.947719,Wild forest,Leaf litter,19.8,20.5,68.5,91.4,https://web.fulcrumapp.com/photos/view?photos=d8bc8810-bccc-45d3-a41a-e4e94370952c,11/16/18
+C. elegans,ECA1295,ECA,20.038475,-155.438331,Wild forest,Leaf litter,20.5,24,59.5,78.7,https://web.fulcrumapp.com/photos/view?photos=6e0f0469-7c95-45ee-bb6d-0d96a6eb26f5,11/16/18
+C. elegans,ECA1296,ECA,20.038475,-155.438331,Wild forest,Leaf litter,20.5,24,59.5,78.7,https://web.fulcrumapp.com/photos/view?photos=6e0f0469-7c95-45ee-bb6d-0d96a6eb26f5,11/16/18
+C. elegans,ECA1297,ECA,20.038475,-155.438331,Wild forest,Leaf litter,20.5,24,59.5,78.7,https://web.fulcrumapp.com/photos/view?photos=6e0f0469-7c95-45ee-bb6d-0d96a6eb26f5,11/16/18
+C. elegans,ECA1298,ECA,20.038475,-155.438331,Wild forest,Leaf litter,20.5,24,59.5,78.7,https://web.fulcrumapp.com/photos/view?photos=6e0f0469-7c95-45ee-bb6d-0d96a6eb26f5,11/16/18
+C. elegans,ECA1200,ECA,20.039569,-155.440386,Wild forest,Leaf litter,20.8,23.3,67.5,84.5,https://web.fulcrumapp.com/photos/view?photos=6c3fda3d-3ec2-4232-bc52-7213b55c5bd2,11/18/18
+C. elegans,ECA1201,ECA,19.718972,-155.949094,Wild forest,Leaf litter,20.1,21.9,67.5,83.1,NA,11/19/18
+C. elegans,ECA1202,ECA,19.718972,-155.949094,Wild forest,Leaf litter,20.1,21.9,67.5,83.1,NA,11/19/18
+C. elegans,ECA1203,ECA,19.718953,-155.951536,Wild forest,Flower,20.8,21.9,NA,87.7,NA,11/19/18
+C. elegans,ECA1204,ECA,19.718953,-155.951536,Wild forest,Flower,20.8,21.9,NA,87.7,NA,11/19/18
+C. elegans,ECA1205,ECA,19.718953,-155.951536,Wild forest,Flower,20.8,21.9,NA,87.7,NA,11/19/18
+C. elegans,ECA1206,ECA,19.718972,-155.949094,Wild forest,Leaf litter,20.1,21.9,67.5,83.1,NA,11/19/18
+C. elegans,ECA1207,ECA,19.718953,-155.951536,Wild forest,Flower,20.8,21.9,NA,87.7,NA,11/19/18
+C. elegans,ECA1208,ECA,19.718953,-155.951536,Wild forest,Flower,20.8,21.9,NA,87.7,NA,11/19/18
+C. elegans,ECA1209,ECA,19.718764,-155.948872,Wild forest,Flower,21.2,23.3,NA,80.4,NA,11/19/18
+C. elegans,ECA1210,ECA,19.718764,-155.948872,Wild forest,Flower,21.2,23.3,NA,80.4,NA,11/19/18
+C. elegans,ECA1211,ECA,19.718764,-155.948872,Wild forest,Flower,21.2,23.3,NA,80.4,NA,11/19/18
+C. elegans,ECA1212,ECA,19.718764,-155.948872,Wild forest,Flower,21.2,23.3,NA,80.4,NA,11/19/18
+C. elegans,ECA1213,ECA,19.718764,-155.948872,Wild forest,Flower,21.2,23.3,NA,80.4,NA,11/19/18
+C. elegans,ECA1214,ECA,19.718764,-155.948872,Wild forest,Flower,21.2,23.3,NA,80.4,NA,11/19/18
+C. elegans,ECA1215,ECA,19.720575,-155.947653,Wild forest,Fungus,19.8,20.5,NA,91.1,https://web.fulcrumapp.com/photos/view?photos=a9184a0d-98ec-4c59-849d-3c92164cfe17,11/19/18
+C. elegans,ECA1216,ECA,19.720575,-155.947653,Wild forest,Fungus,19.8,20.5,NA,91.1,https://web.fulcrumapp.com/photos/view?photos=a9184a0d-98ec-4c59-849d-3c92164cfe17,11/19/18
+C. elegans,ECA1217,ECA,19.720575,-155.947653,Wild forest,Fungus,19.8,20.5,NA,91.1,https://web.fulcrumapp.com/photos/view?photos=a9184a0d-98ec-4c59-849d-3c92164cfe17,11/19/18
+C. elegans,ECA1218,ECA,19.720575,-155.947653,Wild forest,Fungus,19.8,20.5,NA,91.1,https://web.fulcrumapp.com/photos/view?photos=a9184a0d-98ec-4c59-849d-3c92164cfe17,11/19/18
+C. elegans,ECA1219,ECA,19.720719,-155.94765,Wild forest,Leaf litter,19.5,20.5,62.5,90.7,https://web.fulcrumapp.com/photos/view?photos=75f6f384-76f7-4644-8eda-6f0916a46d82,11/19/18
+C. elegans,ECA1220,ECA,20.039722,-155.441483,Wild forest,Fruit,21.3,23.3,NA,83.6,https://web.fulcrumapp.com/photos/view?photos=6599acdf-264b-49b7-bae7-8256d6c446ec,11/19/18
+C. elegans,ECA1221,ECA,20.039722,-155.441483,Wild forest,Fruit,21.3,23.3,NA,83.6,https://web.fulcrumapp.com/photos/view?photos=6599acdf-264b-49b7-bae7-8256d6c446ec,11/19/18
+C. elegans,ECA1222,ECA,19.7188,-155.954483,Wild forest,Fruit,20.4,21.2,NA,89,NA,11/19/18
+C. elegans,ECA1223,ECA,19.7188,-155.954483,Wild forest,Fruit,20.4,21.2,NA,89,NA,11/19/18
+C. elegans,ECA1225,ECA,19.7188,-155.954483,Wild forest,Fruit,20.4,21.2,NA,89,NA,11/19/18
+C. elegans,ECA1227,ECA,19.7188,-155.954483,Wild forest,Fruit,20.4,21.2,NA,89,NA,11/19/18
+C. elegans,ECA1276,ECA,20.040864,-155.443772,Wild forest,Leaf litter,20.9,22.6,58,86.5,https://web.fulcrumapp.com/photos/view?photos=25efc991-07b3-4a64-bc90-d802680a55d9,11/19/18
+C. elegans,ECA1277,ECA,20.040864,-155.443772,Wild forest,Leaf litter,20.9,22.6,58,86.5,https://web.fulcrumapp.com/photos/view?photos=25efc991-07b3-4a64-bc90-d802680a55d9,11/19/18
+C. elegans,ECA1278,ECA,20.040864,-155.443772,Wild forest,Leaf litter,20.9,22.6,58,86.5,https://web.fulcrumapp.com/photos/view?photos=25efc991-07b3-4a64-bc90-d802680a55d9,11/19/18
+C. elegans,ECA1279,ECA,19.720103,-155.948617,Wild forest,Flower,20.4,21.9,NA,89.6,https://web.fulcrumapp.com/photos/view?photos=1e1fba36-dcb6-4d3a-9645-3a1cd1b61788,11/19/18
+C. elegans,ECA1281,ECA,19.720103,-155.948617,Wild forest,Flower,20.4,21.9,NA,89.6,https://web.fulcrumapp.com/photos/view?photos=1e1fba36-dcb6-4d3a-9645-3a1cd1b61788,11/19/18
+C. elegans,ECA1282,ECA,19.720103,-155.948617,Wild forest,Flower,20.4,21.9,NA,89.6,https://web.fulcrumapp.com/photos/view?photos=1e1fba36-dcb6-4d3a-9645-3a1cd1b61788,11/19/18
+C. elegans,ECA1283,ECA,19.720103,-155.948617,Wild forest,Flower,20.4,21.9,NA,89.6,https://web.fulcrumapp.com/photos/view?photos=1e1fba36-dcb6-4d3a-9645-3a1cd1b61788,11/19/18
+C. elegans,ECA243,CGC,44.85,0.48,Urban garden,Soil,NA,NA,NA,NA,NA,NA
+C. elegans,ECA244,CB,44.85,0.48,Urban garden,Soil,NA,NA,NA,NA,NA,NA
+C. oiwi,ECA817,ECA,21.351381,-157.806161,Wild forest,Rotting flower,22.5,24.7,43.5,78.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0053.jpg,8/3/17
+C. oiwi,ECA818,ECA,21.354133,-157.810183,Wild forest,Rotting flower,22.6,24.7,57,78.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0055.jpg,8/3/17
+C. oiwi,ECA819,ECA,21.349858,-157.805975,Wild forest,Rotting flower,21.8,24,46,77.8,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0065.jpg,8/3/17
+C. oiwi,ECA820,ECA,21.351633,-157.806033,Wild forest,Fruit/nut/vegetable,23.2,24.6,54.5,72.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0072.jpg,8/3/17
+C. oiwi,ECA814,ECA,21.380456,-157.799711,Rural garden,Fruit/nut/vegetable,26.9,27,59,79.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0029.jpg,8/4/17
+C. oiwi,ECA815,ECA,21.380194,-157.803497,Rural garden,Rotting flower,25.1,27.7,56,75,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0037.jpg,8/4/17
+C. oiwi,ECA816,ECA,21.380372,-157.799964,Rural garden,Fruit/nut/vegetable,27.3,26.3,NA,77.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0047.jpg,8/4/17
+C. oiwi,ECA821,ECA,21.336106,-157.799864,Wild forest,Rotting flower,22.8,22.9,50.5,95.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0084.jpg,8/4/17
+C. oiwi,ECA822,ECA,21.336106,-157.799864,Wild forest,Rotting flower,22.8,22.9,50.5,95.1,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0084.jpg,8/4/17
+C. oiwi,ECA823,ECA,22.071756,-159.418808,Wild forest,Rotting flower,22.4,24.7,NA,82.9,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0257.jpg,8/9/17
+C. oiwi,ECA824,ECA,22.071739,-159.418614,Wild grassland,Rotting flower,23.2,24.9,NA,81,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-0803.jpg,8/9/17
+C. oiwi,ECA825,ECA,21.992203,-159.368211,Wild forest,Rotting flower,23.1,25.3,56.5,79.4,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-1079.jpg,8/9/17
+C. oiwi,ECA826,ECA,21.992203,-159.368211,Wild forest,Rotting flower,23.1,25.3,56.5,79.4,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-1079.jpg,8/9/17
+C. oiwi,ECA827,ECA,19.922528,-155.154106,Wild forest,Rotting flower,24.9,27.4,NA,67.8,https://storage.googleapis.com/elegansvariation.org/photos/hawaii2017/C-3533.jpg,8/17/17
+C. tropicalis,ECA1299,ECA,21.341864,-157.809542,Wild forest,Fruit,21.9,24,NA,87.3,https://web.fulcrumapp.com/photos/view?photos=4f71a61c-66a6-4661-908d-e81180291ab1,11/8/18
+C. tropicalis,ECA1300,ECA,21.342017,-157.809561,Wild forest,Fruit,22.2,24,NA,85.3,https://web.fulcrumapp.com/photos/view?photos=227dc727-8884-40de-8d4e-a8a8ffb17851,11/8/18
+C. tropicalis,ECA1301,ECA,21.342017,-157.809561,Wild forest,Fruit,22.2,24,NA,85.3,https://web.fulcrumapp.com/photos/view?photos=227dc727-8884-40de-8d4e-a8a8ffb17851,11/8/18
+C. tropicalis,ECA1302,ECA,21.342017,-157.809561,Wild forest,Fruit,22.2,24,NA,85.3,https://web.fulcrumapp.com/photos/view?photos=227dc727-8884-40de-8d4e-a8a8ffb17851,11/8/18
+C. tropicalis,ECA1303,ECA,21.342017,-157.809561,Wild forest,Fruit,22.2,24,NA,85.3,https://web.fulcrumapp.com/photos/view?photos=227dc727-8884-40de-8d4e-a8a8ffb17851,11/8/18
+C. tropicalis,ECA1304,ECA,21.342017,-157.809561,Wild forest,Fruit,22.2,24,NA,85.3,https://web.fulcrumapp.com/photos/view?photos=227dc727-8884-40de-8d4e-a8a8ffb17851,11/8/18
+C. tropicalis,ECA1305,ECA,21.340908,-157.822025,Wild forest,Fruit,22.3,23.3,NA,94.8,https://web.fulcrumapp.com/photos/view?photos=0470e3d2-7eac-42ca-a91a-4fb55ad4d419,11/8/18
+C. tropicalis,ECA1306,ECA,21.342931,-157.823853,Wild forest,Flower,23.2,24,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=19feeae8-8668-471f-82df-a898e34d1b7c,11/8/18
+C. tropicalis,ECA1307,ECA,21.341864,-157.809542,Wild forest,Fruit,21.9,24,NA,87.3,https://web.fulcrumapp.com/photos/view?photos=4f71a61c-66a6-4661-908d-e81180291ab1,11/8/18
+C. tropicalis,ECA1308,ECA,21.342931,-157.823853,Wild forest,Flower,23.2,24,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=19feeae8-8668-471f-82df-a898e34d1b7c,11/8/18
+C. tropicalis,ECA1309,ECA,21.342931,-157.823853,Wild forest,Flower,23.2,24,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=19feeae8-8668-471f-82df-a898e34d1b7c,11/8/18
+C. tropicalis,ECA1310,ECA,21.342931,-157.823853,Wild forest,Flower,23.2,24,NA,96.7,https://web.fulcrumapp.com/photos/view?photos=19feeae8-8668-471f-82df-a898e34d1b7c,11/8/18
+C. tropicalis,ECA1311,ECA,20.040464,-155.441103,Wild forest,Leaf litter,21.4,23.3,63,85.9,https://web.fulcrumapp.com/photos/view?photos=762ccbe6-a0c4-47d4-b15c-9c7742478b94,11/19/18
+C. tropicalis,ECA1312,ECA,20.040464,-155.441103,Wild forest,Leaf litter,21.4,23.3,63,85.9,https://web.fulcrumapp.com/photos/view?photos=762ccbe6-a0c4-47d4-b15c-9c7742478b94,11/19/18
+C. tropicalis,ECA1313,ECA,20.040464,-155.441103,Wild forest,Leaf litter,21.4,23.3,63,85.9,https://web.fulcrumapp.com/photos/view?photos=762ccbe6-a0c4-47d4-b15c-9c7742478b94,11/19/18

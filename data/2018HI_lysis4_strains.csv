@@ -1,0 +1,18 @@
+s_plate,lysis4_strip_id,lysis4_well_id,seq1_species_id,seq2_species_id,general notes
+S-07871,401,1,no match,no band,
+S-07939,401,2,C. elegans,no band,
+S-08545,401,3,no match,no band,
+S-08597,401,4,no match,no band,
+S-08824,401,5,no match,C. elegans,many mismatches on top hit for C. elegans in second sequencing
+S-09024,401,6,no match,no band,
+S-09218,401,7,no match,no band,
+S-09354,401,8,C. elegans,no band,
+S-09436,401,9,C. elegans,no band,very faint band for lysis three
+S-09454,401,10,C. elegans,no worms,
+S-09477,401,11,C. elegans,no worms,
+positive control,401,12,positive control,,
+S-09711,402,1,C. elegans,no worms,
+S-09791,402,2,C. elegans,no worms,
+S-09819,402,3,C. briggsae,C. elegans,mismatch between first sequencing and second sequencing
+S-09837,402,4,C. elegans,Oscheius myriophilus,mismatch between first sequencing and second sequencing
+positive control,402,5,positive control,,

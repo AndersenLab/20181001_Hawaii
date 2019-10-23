@@ -1,0 +1,66 @@
+---
+title: "collection_report"
+author: "Tim C."
+date: "1/16/2019"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+---
+
+```{r, setup, include=FALSE}
+library(tidyverse)
+library(cowplot)
+library(DT)
+try(setwd(dirname(rstudioapi::getActiveDocumentContext()$path)))
+source("~/Dropbox/AndersenLab/LabFolders/Tim/projects/2018HawaiiSampling/01-setup.R")
+load("~/Dropbox/AndersenLab/LabFolders/Tim/projects/2018HawaiiSampling/data/fulcrum/df.Rda")
+```
+
+## C. elegans map
+```{r, echo =FALSE, warning=FALSE}
+map_ce_df <- df %>%
+  dplyr::filter(confirmed_species_id == "C. elegans") %>%
+  dplyr::distinct(c_label_corrected, .keep_all = TRUE) %>%
+  dplyr::mutate(color = "red")
+
+map_ce <- map_collection(map_ce_df, "color")
+map_ce
+```
+(n = 38)
+
+## C. briggsae map
+```{r, echo =FALSE, warning=FALSE}
+map_cb_df <- df %>%
+  dplyr::filter(confirmed_species_id == "C. briggsae") %>%
+  dplyr::distinct(c_label_corrected, .keep_all = TRUE) %>%
+  dplyr::mutate(color = "blue")
+
+map_cb <- map_collection(map_cb_df, "color")
+map_cb
+```
+(n = 11)
+
+## C. tropicalis map
+```{r, echo =FALSE, warning=FALSE}
+map_ct_df <- df %>%
+  dplyr::filter(confirmed_species_id == "C. tropicalis") %>%
+  dplyr::distinct(c_label_corrected, .keep_all = TRUE) %>%
+  dplyr::mutate(color = "orange")
+
+map_ct <- map_collection(map_ct_df, "color")
+map_ct
+```
+(n = 5)
+
+
+## Environmental parameters
+```{r, echo =FALSE, warning=FALSE}
+# evaluate distance errors from scanning bag first
+df_dist <- df %>%
+  dplyr::rowwise() %>%
+  dplyr::mutate(gps_err = geosphere::distHaversine(c(collection_longitude, collection_latitude),
+                                                   c(collection_longitude_photo, collection_latitude_photo)))
+```

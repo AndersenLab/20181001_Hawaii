@@ -1,0 +1,259 @@
+---
+title: "Fix duplicated C-labels"
+author: "Tim C."
+date: "1/16/2018"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+---
+
+```{r, setup, include=FALSE}
+library(tidyverse)
+library(cowplot)
+library(DT)
+setwd('~/Dropbox/AndersenLab/LabFolders/Tim/projects/2018HawaiiSampling')
+source('01-setup.R')
+```
+
+## Summarize C-label duplications
+```{r, echo=TRUE, warning=FALSE}
+#find all duplicated c-labels (182)
+dup_c_labels <- df %>%
+  dplyr::filter(duplicated_c_label == 1) %>%
+  dplyr::distinct(c_label)
+
+# Return all collection and isolation records from C-labels that are duplicated and had C-elegans isolated from them.
+c_elegans_isolations <- df %>%
+  dplyr::filter(confirmed_species_id == "C. elegans") %>%
+  dplyr::select(c_label, s_label, confirmed_species_id)
+
+dup_c_elegans_c_plates <- df %>%
+  dplyr::filter(c_label %in% c_elegans_isolations$c_label & c_label %in% dup_c_labels$c_label) %>%
+  dplyr::arrange(c_label)
+```
+182 of 1001 C-labels were duplicated in the Hawaii2018 collection. Because of this duplication, isolations may be associated with the wrong C-label.<p>
+There are two possible error types for these duplicated C-labels.<p> 1) Both isolations are assigned to the same C-label, one of which is wrong.<p>
+2) Both isolations are assigned to the worng C-label, i.e. they should be swapped.
+
+## C. elegans duplication map
+```{r}
+#=========================================#
+# Mapping colletions     #
+#=========================================#
+# map all C. elegans collections
+dup_celegans_map <- map_collection(df %>% dplyr::filter(confirmed_species_id == "C. elegans") %>%  dplyr::mutate(color = case_when(duplicated_c_label == "1" ~ "grey", duplicated_c_label == "0" ~ "red")) , "color")
+dup_celegans_map
+```
+red = non-dulicated c. elegans collections (n = 30)<p>
+grey = duplicated collections (n = 11)
+
+## C-1696
+```{r, echo = FALSE, warnings = FALSE}
+c1696 <- df %>%
+  dplyr::filter(c_label == "C-1696") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c1696)
+
+# solution
+
+```
+Isolations `02` and `06` originally assigned to same collection `29`<p>
+<b>Solution:</b> Assign isolation `06` to collection `b9`
+
+## C-2633
+```{r, echo = FALSE, warnings = FALSE}
+c2633 <- df %>%
+  dplyr::filter(c_label == "C-2633") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c2633)
+```
+Isolations `a0` and `92` originally assigned to same collection `fb`<p>
+<b>Solution:</b> Assign isolation `92` to collection `35`
+
+## C-3422
+```{r, echo = FALSE, warnings = FALSE}
+c3422 <- df %>%
+  dplyr::filter(c_label == "C-3422") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c3422)
+```
+Isolations originally assigned to different collections. Collection `8d` assinged to isolation `54` and `8a` assigned to isolation `eb`. Based on shipment isolation dates and sample photos this is the correct assignment.<p>
+<b>Solution:</b> No change
+
+## C-3434
+```{r, echo = FALSE, warnings = FALSE}
+c3434 <- df %>%
+  dplyr::filter(c_label == "C-3434") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c3434)
+
+# solution
+
+```
+Isolations originally assigned to different collections. Collection `2d` assinged to isolation `c8` and collection `72` assigned to isolation `3b`. Based on shipment isolation dates and sample photos this is the correct assignment.<p>
+<b>Solution:</b> No change
+
+## C-3442
+```{r, echo = FALSE, warnings = FALSE}
+c3442 <- df %>%
+  dplyr::filter(c_label == "C-3442") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c3442)
+
+# solution
+
+```
+Isolations originally assigned to different collections. Collection `dd` assinged to isolation `41` and collection `c7` assigned to isolation `c8`. Based on shipment isolation dates and sample photos this is the correct assignment.<p>
+<b>Solution:</b> No change
+
+## C-3451
+```{r, echo = FALSE, warnings = FALSE}
+c3451 <- df %>%
+  dplyr::filter(c_label == "C-3451") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c3451)
+
+# solution
+
+```
+Isolations originally assigned to different collections. Collection `7e` assinged to isolation `5b` and collection `39` assigned to isolation `ad`. Based on shipment isolation dates and sample photos this is the correct assignment.<p>
+<b>Solution:</b> No change
+
+## C-3463
+```{r, echo = FALSE, warnings = FALSE}
+c3463 <- df %>%
+  dplyr::filter(c_label == "C-3463") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c3463)
+
+# solution
+
+```
+Two isolations `6f` and `41` originally assigned to same collection `b6`<p>
+<b>Solution:</b> Isolation `41` should be assigned to Collection `ee`
+
+## C-3491
+```{r, echo = FALSE, warnings = FALSE}
+c3491 <- df %>%
+  dplyr::filter(c_label == "C-3491") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c3491)
+
+# solution
+
+```
+Isolations correctly assigned<p>
+<b>Solution:</b> No Change
+
+## C-3569
+```{r, echo = FALSE, warnings = FALSE}
+c3569 <- df %>%
+  dplyr::filter(c_label == "C-3569") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c3569)
+
+# solution
+
+```
+Isolations correctly assigned<p>
+<b>Solution:</b> No Change
+
+## C-3603
+```{r, echo = FALSE, warnings = FALSE}
+c3603 <- df %>%
+  dplyr::filter(c_label == "C-3603") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c3603)
+
+# solution
+
+```
+Isolations `df` and `74` assigned to same collection `72`<p>
+<b>Solution:</b> Assign isolation `df` to collection `53`
+
+## C-3611
+```{r, echo = FALSE, warnings = FALSE}
+c3611 <- df %>%
+  dplyr::filter(c_label == "C-3611") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c3611)
+
+# solution
+
+```
+Isolations `99` and `1c` were incorrectly assigned.<p>
+<b>Solution:</b> Assign isolation `99` to collection `95` and assign isolation `1c` to collection `6c`.
+
+## Other duplications
+```{r, echo = FALSE, warnings = FALSE}
+vip_dups <- df %>%
+  dplyr::group_by(c_label) %>%
+  dplyr::filter(confirmed_species_id %in% c("C. briggsae", "C. tropicalis") & duplicated_c_label == 1) 
+
+c3552 <- df %>%
+  dplyr::filter(c_label == "C-3552") %>%
+  dplyr::select(fulcrum_id_collection, fulcrum_id_isolation, c_label, s_label, confirmed_species_id, 
+                collection_datetime, isolated_at) %>%
+  dplyr::arrange(collection_datetime)
+
+DT::datatable(c3552)
+
+```
+Of all <i>C. briggsae</i> and <i>C. tropicalis</i> Only one <i>C. briggsae</i> positive collection was duplicated (C-3552). In this case isolations `24` and `35` assigned to same collection `e9`.<p>
+<b>Solution:</b> Assign isolation `35` to collection `6b`
+
+## Cross project corrections
+```{r, echo=TRUE, warning=FALSE}
+# Fix isolations that were assigned to other projects. 
+# Fix isolations that were assigned to C-labels from other projects.
+# Only fixing isolations that contained C. elegans, C. briggsae, or C. tropicalis.
+
+isolations_assigned_to_other_projs <- c("80368afd-d1b7-45f4-8e34-26911c5b6175")
+
+isolations_assigned_to_c_labels_in_other_projects <- c("65035c16-1656-4952-9b36-6e6857457144", "249f271e-e9d8-41a4-b702-28d0d071b48", "d81b69a2-8cb5-478d-acd6-dfee0a9d00fe")
+
+```
+1) Isolations assigned to other projects were manually entered into new .csv `nematode_isolation_cross_project_corrections.csv` with the correct fulcrum_collection_id. The S-plate data for these isolatations was also manually entered into a separate .csv `nematode_isolation_s_labeled_plates_cross_project_corrections.csv`. These files are called in `00-load.R` script to correct the `df`.<p>
+2) Isolations assigned to collections from other projects are corrected by manually assigning the correct collection id in the .csv `isolation_correction_pairs.csv`. That file is called in `00-load.R` script to correct `df`.
+
+## S-09436 missing from DF, but in s-plates
+```{r, echo=TRUE, warning=FALSE}
+#Collection C-2727 is duplicated in 
+
+```
